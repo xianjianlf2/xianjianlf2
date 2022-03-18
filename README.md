@@ -1,6 +1,6 @@
 **Mark Xian**
 
-![Metrics](https://github.com/La2yTibers/La2yTibers/blob/main/github-metrics.svg)
+![Metrics](https://github.com/xianjianlf2/xianjianlf2/blob/main/github-metrics.svg)
 
 技术栈：
 
