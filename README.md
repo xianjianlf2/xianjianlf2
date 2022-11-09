@@ -10,8 +10,6 @@
 |       [vue-ts](https://github.com/xianjianlf2/vue-ts)        | 基于`vue3+ts`实现后台管理动态表单 | <code><img src="https://gitee.com/mark_xian/graphic-bed/raw/master/202208111102026.png" width="30px;" /></code><code><img src="https://gitee.com/mark_xian/graphic-bed/raw/master/202208111106219.png" width="30px;" /></code>
 
 
-
-![](https://ssr-contributions-svg.vercel.app/_/xianjianlf2?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&theme=green&widget_size=medium)
 ![](https://raw.githubusercontent.com/xianjianlf2/xianjianlf2/main/assets/github-contribution-grid-snake.svg)              
 技术栈：
 
