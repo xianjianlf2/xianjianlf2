@@ -9,9 +9,8 @@
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)          
-Technology Stack：
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60px;" /></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="60px;" /></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60px;" /></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60px;"/></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="60px;" /></code>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,dart,mysql,graphql)](https://github.com/Jurredr/github-widgetbox)
 
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GX4X30SZ715T2KB8CTTZNEHX/green.svg)](https://badges.toozhao.com/stats/01GX4X30SZ715T2KB8CTTZNEHX "Get your own page views count badge on badges.toozhao.com")
