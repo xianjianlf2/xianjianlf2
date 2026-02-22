@@ -12,8 +12,6 @@
 |---------|-------------|-------|
 | [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) | Auto generate MindMap with ChatGPT | ![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=flat) |
 | [mini-vue](https://github.com/xianjianlf2/mini-vue) | 基于 Vue3 实现最简功能 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-vue?style=flat) |
-| [apidoc2MCP](https://github.com/xianjianlf2/apidoc2MCP) | Auto generate MCP JSON from API docs | ![Stars](https://img.shields.io/github/stars/xianjianlf2/apidoc2MCP?style=flat) |
-| [vue3-pdf-viewer](https://github.com/xianjianlf2/vue3-pdf-viewer) | Vue3 PDF Viewer with virtual scrolling | ![Stars](https://img.shields.io/github/stars/xianjianlf2/vue3-pdf-viewer?style=flat) |
 
 #### 🛠 Source Code Learning
 
