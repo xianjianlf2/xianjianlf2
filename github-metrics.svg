@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.6338134535337" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="255.6338134535337" y="0" width="71.00189984851559" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="326.6357133020493" y="0" width="41.29678358459805" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="367.9324968866473" y="0" width="39.94365609039903" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="407.87615297704633" y="0" width="34.88875594720702" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.76490892425335" y="0" width="13.833710686981076" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.5986196112344" y="0" width="2.16370978370158" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.762329394936" y="0" width="1.237670605063992" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="258.32718816776304" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="258.32718816776304" y="0" width="71.74998054695965" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="330.0771687147227" y="0" width="40.36450508472547" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="370.44167379944815" y="0" width="36.8852988884832" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="407.32697268793135" y="0" width="35.25634618032071" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="442.5833188682521" y="0" width="13.979463574930119" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.5627824431822" y="0" width="2.186506772650821" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.7492892158331" y="0" width="1.2507107841670209" height="8" fill="#00B4AB"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -45,15 +45,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1002,10 +1002,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 3.5)">
+                            <g transform="translate(-3.4, 5)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.5 0,5.5 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.5 1.7,6.5 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
                             </g>
                             <g transform="translate(-5.1, 9)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1108,13 +1108,18 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Mar 2026, 18:53:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2026, 18:53:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
