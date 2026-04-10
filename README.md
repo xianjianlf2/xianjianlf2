@@ -10,9 +10,10 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) | Auto generate MindMap with ChatGPT | ![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=flat) |
-| [mini-koa](https://github.com/xianjianlf2/mini-koa) | 通过 Git 历史一步步实现 mini-koa，理解 Koa 核心和洋葱模型 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-koa?style=flat) |
-| [mini-vue](https://github.com/xianjianlf2/mini-vue) | 基于 Vue3 实现最简功能 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-vue?style=flat) |
+| [mini-koa](https://github.com/xianjianlf2/mini-koa) | 通过 Git 历史一步步实现 mini-koa，理解 Koa 核心、中间件机制和洋葱模型 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-koa?style=flat) |
+| [mini-vue](https://github.com/xianjianlf2/mini-vue) | 从零拆解 Vue3 的核心思路，逐步理解响应式、渲染和组件机制 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-vue?style=flat) |
+| [mini-react](https://github.com/xianjianlf2/mini-react) | 通过精简实现理解 React 的渲染流程、Fiber 思路和 Hooks 机制 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-react?style=flat) |
+| [mini-webpack](https://github.com/xianjianlf2/mini-webpack) | 以小型实现方式理解打包器的依赖收集、模块图和构建流程 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-webpack?style=flat) |
 
 #### 🛠 Source Code Learning
 
