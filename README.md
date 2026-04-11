@@ -4,6 +4,8 @@
 
 📍 Guangdong, China | Frontend Developer
 
+I build learning-first engineering projects and AI products. I like turning complex ideas into small, traceable steps: framework internals, build tools, compilers, and practical AI applications.
+
 ---
 
 #### 🔥 Featured Projects
@@ -14,6 +16,7 @@
 | [mini-vue](https://github.com/xianjianlf2/mini-vue) | 从零拆解 Vue3 的核心思路，逐步理解响应式、渲染和组件机制 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-vue?style=flat) |
 | [mini-react](https://github.com/xianjianlf2/mini-react) | 通过精简实现理解 React 的渲染流程、Fiber 思路和 Hooks 机制 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-react?style=flat) |
 | [mini-webpack](https://github.com/xianjianlf2/mini-webpack) | 以小型实现方式理解打包器的依赖收集、模块图和构建流程 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-webpack?style=flat) |
+| [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) | AI-powered mind mapping app，支持 AI 生成脑图、对话式整理想法和知识结构化 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=flat) |
 
 #### 🛠 Source Code Learning
 
@@ -23,8 +26,9 @@
 | [mini-vue](https://github.com/xianjianlf2/mini-vue) | Vue3 reactivity, virtual DOM, compiler |
 | [mini-react](https://github.com/xianjianlf2/mini-react) | React fiber, hooks, reconciliation |
 | [mini-webpack](https://github.com/xianjianlf2/mini-webpack) | Module bundling, dependency graph |
-| [tiny-complier](https://github.com/xianjianlf2/tiny-complier) | Tokenizer, parser, code generation |
+| [mini-complier](https://github.com/xianjianlf2/mini-complier) | Tokenizer, parser, AST traversal, code generation |
 | [ts-axios](https://github.com/xianjianlf2/ts-axios) | HTTP client implementation in TypeScript |
+| [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) | AI product architecture, mind map generation, chat assistant |
 
 #### 💻 Tech Stack
 
