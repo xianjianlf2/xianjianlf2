@@ -18,9 +18,9 @@ I build AI products and learning-first engineering projects — turning complex 
 Open-source AI agent that reads your PDFs and draws editable mind maps — a visible multi-step tool-calling loop, built-in RAG (no LangChain), bring-your-own-key, multi-provider (OpenAI / Claude / DeepSeek).
 `React` · `Hono` · `Vercel AI SDK v5` · `AntV X6`
 
-**[vue3-pdf-viewer](https://github.com/xianjianlf2/vue3-pdf-viewer)** — A published npm package ([`@xianjianlf2/vue-pdf-viewer`](https://www.npmjs.com/package/@xianjianlf2/vue-pdf-viewer)) — a PDF.js viewer for Vue 3 with virtual scrolling for large files. `Vue3` · `Vite` · `Tailwind`
-
 **[apidoc2MCP](https://github.com/xianjianlf2/apidoc2MCP)** — Convert API documentation into MCP services, so AI Coding IDEs can call your APIs directly. `Python`
+
+<sub>📦 Also on npm: [`@xianjianlf2/vue-pdf-viewer`](https://www.npmjs.com/package/@xianjianlf2/vue-pdf-viewer) — an early-stage PDF.js viewer for Vue 3 (2023, archived).</sub>
 
 ---
 
