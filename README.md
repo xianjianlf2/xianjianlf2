@@ -18,7 +18,24 @@ I build AI products and learning-first engineering projects — turning complex 
 Open-source AI agent that reads your PDFs and draws editable mind maps — a visible multi-step tool-calling loop, built-in RAG (no LangChain), bring-your-own-key, multi-provider (OpenAI / Claude / DeepSeek).
 `React` · `Hono` · `Vercel AI SDK v5` · `AntV X6`
 
+**[vue3-pdf-viewer](https://github.com/xianjianlf2/vue3-pdf-viewer)** — A published npm package ([`@xianjianlf2/vue-pdf-viewer`](https://www.npmjs.com/package/@xianjianlf2/vue-pdf-viewer)) — a PDF.js viewer for Vue 3 with virtual scrolling for large files. `Vue3` · `Vite` · `Tailwind`
+
 **[apidoc2MCP](https://github.com/xianjianlf2/apidoc2MCP)** — Convert API documentation into MCP services, so AI Coding IDEs can call your APIs directly. `Python`
+
+---
+
+#### 🌍 Open Source Contributions
+
+Merged pull requests into projects I use:
+
+| Project | Contribution |
+|---------|--------------|
+| [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) ![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat&label=★&labelColor=444&color=444) | [Improve AddNodes interaction](https://github.com/FlowiseAI/Flowise/pull/162) |
+| [apitable/apitable](https://github.com/apitable/apitable) ![Stars](https://img.shields.io/github/stars/apitable/apitable?style=flat&label=★&labelColor=444&color=444) | [Improve zh-CN i18n](https://github.com/apitable/apitable/pull/367) |
+| [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) ![Stars](https://img.shields.io/github/stars/crxjs/chrome-extension-tools?style=flat&label=★&labelColor=444&color=444) | [Add Vue use-case docs](https://github.com/crxjs/chrome-extension-tools/pull/870) |
+| [Navideck/universal_ble](https://github.com/Navideck/universal_ble) ![Stars](https://img.shields.io/github/stars/Navideck/universal_ble?style=flat&label=★&labelColor=444&color=444) | [Fix Dart primary constructor compatibility](https://github.com/Navideck/universal_ble/pull/249) |
+| [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) ![Stars](https://img.shields.io/github/stars/fastclaw-ai/weclaw?style=flat&label=★&labelColor=444&color=444) | [Detect agents installed via nvm / mise](https://github.com/fastclaw-ai/weclaw/pull/11) |
+| [cuixueshe/dida](https://github.com/cuixueshe/dida) ![Stars](https://img.shields.io/github/stars/cuixueshe/dida?style=flat&label=★&labelColor=444&color=444) | 5 merged PRs — draggable sidebar, project CRUD, bug fixes |
 
 ---
 
