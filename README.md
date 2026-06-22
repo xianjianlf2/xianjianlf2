@@ -2,35 +2,42 @@
 
 > Talk is cheap. Show me the code.
 
-📍 Guangdong, China | Frontend Developer
+📍 Guangdong, China · Frontend Developer
 
-I build learning-first engineering projects and AI products. I like turning complex ideas into small, traceable steps: framework internals, build tools, compilers, and practical AI applications.
+I build AI products and learning-first engineering projects — turning complex ideas into small, traceable steps: framework internals, build tools, compilers, and practical AI applications.
+
+[![Juejin](https://img.shields.io/badge/掘金-Mark%20Xian-1e80ff?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/4495219058030952)
+[![Email](https://img.shields.io/badge/Email-mark--xian@foxmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mark-xian@foxmail.com)
 
 ---
 
-#### 🔥 Featured Projects
+#### 🚀 What I'm Building
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [mini-koa](https://github.com/xianjianlf2/mini-koa) | 通过 Git 历史一步步实现 mini-koa，理解 Koa 核心、中间件机制和洋葱模型 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-koa?style=flat) |
-| [mini-vue](https://github.com/xianjianlf2/mini-vue) | 从零拆解 Vue3 的核心思路，逐步理解响应式、渲染和组件机制 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-vue?style=flat) |
-| [mini-react](https://github.com/xianjianlf2/mini-react) | 通过精简实现理解 React 的渲染流程、Fiber 思路和 Hooks 机制 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-react?style=flat) |
-| [mini-webpack](https://github.com/xianjianlf2/mini-webpack) | 以小型实现方式理解打包器的依赖收集、模块图和构建流程 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-webpack?style=flat) |
-| [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) | AI-powered mind mapping app，支持 AI 生成脑图、对话式整理想法和知识结构化 | ![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=flat) |
+**[MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI)** &nbsp;![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
 
-#### 🛠 Source Code Learning
+Open-source AI agent that reads your PDFs and draws editable mind maps — a visible multi-step tool-calling loop, built-in RAG (no LangChain), bring-your-own-key, multi-provider (OpenAI / Claude / DeepSeek).
+`React` · `Hono` · `Vercel AI SDK v5` · `AntV X6`
 
-| Project | What I Learned |
-|---------|---------------|
-| [mini-koa](https://github.com/xianjianlf2/mini-koa) | Koa middleware, onion model, ctx/request/response, router layering |
-| [mini-vue](https://github.com/xianjianlf2/mini-vue) | Vue3 reactivity, virtual DOM, compiler |
+**[apidoc2MCP](https://github.com/xianjianlf2/apidoc2MCP)** — Convert API documentation into MCP services, so AI Coding IDEs can call your APIs directly. `Python`
+
+---
+
+#### 🧩 Source-Code Learning · the `mini-*` series
+
+Rebuilding the tools I use from scratch, organized commit-by-commit so every concept stays traceable.
+
+| Project | What I rebuilt & learned |
+|---------|--------------------------|
+| [mini-vue](https://github.com/xianjianlf2/mini-vue) ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-vue?style=flat&label=★&labelColor=444&color=444) | Vue3 reactivity, virtual DOM, template compiler |
+| [mini-koa](https://github.com/xianjianlf2/mini-koa) ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-koa?style=flat&label=★&labelColor=444&color=444) | Koa middleware, onion model, ctx / request / response, router layering |
 | [mini-react](https://github.com/xianjianlf2/mini-react) | React fiber, hooks, reconciliation |
-| [mini-webpack](https://github.com/xianjianlf2/mini-webpack) | Module bundling, dependency graph |
+| [mini-webpack](https://github.com/xianjianlf2/mini-webpack) | Module bundling, dependency graph, build flow |
 | [mini-complier](https://github.com/xianjianlf2/mini-complier) | Tokenizer, parser, AST traversal, code generation |
-| [ts-axios](https://github.com/xianjianlf2/ts-axios) | HTTP client implementation in TypeScript |
-| [MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI) | AI product architecture, mind map generation, chat assistant |
+| [ts-axios](https://github.com/xianjianlf2/ts-axios) | A full HTTP client implemented in TypeScript |
 
-#### 💻 Tech Stack
+---
+
+#### 🛠 Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -48,7 +55,7 @@ I build learning-first engineering projects and AI products. I like turning comp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xianjianlf2&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=xianjianlf2&theme=tokyonight&hide_border=true" />
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
