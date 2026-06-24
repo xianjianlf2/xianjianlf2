@@ -46,11 +46,11 @@ Rebuilding the tools I use from scratch, organized commit-by-commit so every con
 
 | Project | What I rebuilt & learned |
 |---------|--------------------------|
-| [mini-vue](https://github.com/xianjianlf2/mini-vue) ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-vue?style=flat&label=★&labelColor=444&color=444) | Vue3 reactivity, virtual DOM, template compiler |
+| [mini-vue](https://github.com/xianjianlf2/mini-vue) ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-vue?style=flat&label=★&labelColor=444&color=444) | Vue3 reactivity, virtual DOM diff, template compiler, lifecycle hooks |
 | [mini-koa](https://github.com/xianjianlf2/mini-koa) ![Stars](https://img.shields.io/github/stars/xianjianlf2/mini-koa?style=flat&label=★&labelColor=444&color=444) | Koa middleware, onion model, ctx / request / response, router layering |
-| [mini-react](https://github.com/xianjianlf2/mini-react) | React fiber, hooks, reconciliation |
-| [mini-webpack](https://github.com/xianjianlf2/mini-webpack) | Module bundling, dependency graph, build flow |
-| [mini-complier](https://github.com/xianjianlf2/mini-complier) | Tokenizer, parser, AST traversal, code generation |
+| [mini-react](https://github.com/xianjianlf2/mini-react) | React fiber, reconciliation, hooks (useState / useEffect) |
+| [mini-webpack](https://github.com/xianjianlf2/mini-webpack) | Module bundling, dependency graph, loaders & plugins |
+| [mini-compiler](https://github.com/xianjianlf2/mini-compiler) | Tokenizer, parser, AST traversal, code generation |
 | [ts-axios](https://github.com/xianjianlf2/ts-axios) | A full HTTP client implemented in TypeScript |
 
 ---
