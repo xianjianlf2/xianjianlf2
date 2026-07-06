@@ -15,8 +15,18 @@ I build AI products and learning-first engineering projects — turning complex 
 
 **[MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI)** &nbsp;![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social)
 
-Open-source AI agent that reads your PDFs and draws editable mind maps — a visible multi-step tool-calling loop, built-in RAG (no LangChain), bring-your-own-key, multi-provider (OpenAI / Claude / DeepSeek).
+Open-source AI agent that reads your PDFs and draws editable mind maps — a visible multi-step tool-calling loop, built-in RAG (no LangChain), bring-your-own-key, multi-provider (OpenAI / Claude / DeepSeek / Kimi). Self-hostable.
 `React` · `Hono` · `Vercel AI SDK v5` · `AntV X6`
+
+**[flutter-motion-kit](https://github.com/xianjianlf2/flutter-motion-kit)** &nbsp;·&nbsp; [live ↗](https://motion.markxian.cn)
+
+Previewable Flutter animations (real running Flutter web), each with traceable pitfalls and an interactive parameter playground — reusable from Claude Code / Cursor via remote MCP.
+`Astro` · `Flutter` · `MCP`
+
+**[gpt-image-2-tools](https://github.com/xianjianlf2/gpt-image-2-tools)** &nbsp;·&nbsp; [live ↗](https://image.markxian.cn)
+
+Free, privacy-first, multi-provider AI image playground (text-to-image / edit / inpaint) — BYOK, 100% client-side.
+`TypeScript`
 
 **[apidoc2MCP](https://github.com/xianjianlf2/apidoc2MCP)** — Convert API documentation into MCP services, so AI Coding IDEs can call your APIs directly. `Python`
 
@@ -30,6 +40,7 @@ Merged pull requests into projects I use:
 
 | Project | Contribution |
 |---------|--------------|
+| [stablyai/orca](https://github.com/stablyai/orca) ![Stars](https://img.shields.io/github/stars/stablyai/orca?style=flat&label=★&labelColor=444&color=444) | [Overlap sidebar-scope loads with startup worktree scan](https://github.com/stablyai/orca/pull/7306) · [Fix rename commit on CJK IME Enter](https://github.com/stablyai/orca/pull/7081) |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) ![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=flat&label=★&labelColor=444&color=444) | [Improve AddNodes interaction](https://github.com/FlowiseAI/Flowise/pull/162) |
 | [apitable/apitable](https://github.com/apitable/apitable) ![Stars](https://img.shields.io/github/stars/apitable/apitable?style=flat&label=★&labelColor=444&color=444) | [Improve zh-CN i18n](https://github.com/apitable/apitable/pull/367) |
 | [crxjs/chrome-extension-tools](https://github.com/crxjs/chrome-extension-tools) ![Stars](https://img.shields.io/github/stars/crxjs/chrome-extension-tools?style=flat&label=★&labelColor=444&color=444) | [Add Vue use-case docs](https://github.com/crxjs/chrome-extension-tools/pull/870) |
