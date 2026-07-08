@@ -8,6 +8,7 @@
 
 I build AI products and learning-first engineering projects — turning complex ideas into small, traceable steps.
 
+[![Homepage](https://img.shields.io/badge/Homepage-markxian.cn-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://markxian.cn/?ref=github-profile)
 [![Juejin](https://img.shields.io/badge/掘金-Mark%20Xian-1e80ff?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/4495219058030952)
 [![Email](https://img.shields.io/badge/Email-mark--xian@foxmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mark-xian@foxmail.com)
 
@@ -93,3 +94,6 @@ Merged pull requests into projects I use:
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
+
+<!-- invisible profile-view counter — renders as nothing, count is private (markxian.cn/stats) -->
+![](https://markxian.cn/pixel.gif)
