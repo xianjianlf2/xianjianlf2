@@ -6,10 +6,12 @@
 
 *Talk is cheap. Show me the code.*
 
-I build AI products and learning-first engineering projects — turning complex ideas into small, traceable steps.
+I build AI products end-to-end — and ship them as live, self-hostable tools.
 
-[![Homepage](https://img.shields.io/badge/Homepage-markxian.cn-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://markxian.cn/?ref=github-profile)
+### 🌐 [See everything I've shipped — live at **markxian.cn** →](https://markxian.cn/?ref=github-profile)
+
 [![Juejin](https://img.shields.io/badge/掘金-Mark%20Xian-1e80ff?style=flat-square&logo=juejin&logoColor=white)](https://juejin.cn/user/4495219058030952)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-mark--xian@foxmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mark-xian@foxmail.com)
 
 </div>
@@ -77,7 +79,6 @@ Merged pull requests into projects I use:
 ### 🛠 Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -89,9 +90,6 @@ Merged pull requests into projects I use:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=xianjianlf2&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xianjianlf2&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
 
