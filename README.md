@@ -20,8 +20,11 @@ I build AI products end-to-end — and ship them as live, self-hostable tools.
 
 ### 🚀 What I'm Building
 
-**[MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI)** &nbsp;![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social) — AI agent that reads your PDFs and draws editable mind maps. Visible tool-calling loop, built-in RAG (no LangChain), BYOK, multi-provider. Self-hostable.
+**Inkling** &nbsp;·&nbsp; [private beta — join the waitlist ↗](https://inkling.markxian.cn/?ref=github-profile) — An agent-native mind-map canvas. Muse reads your PDFs and draws editable maps live before your eyes — skeleton first, surgical node edits by id, and a two-way canvas that sees what *you* changed and builds on it.
 <sub>`React` · `Hono` · `Vercel AI SDK v5` · `AntV X6`</sub>
+
+**[MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI)** &nbsp;![Stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=social) — the earlier open-source take on the same idea: AI reads your docs and generates mind maps, with built-in RAG (no LangChain).
+<sub>`Vue` · `LangChain-free RAG`</sub>
 
 **[flutter-motion-kit](https://github.com/xianjianlf2/flutter-motion-kit)** &nbsp;·&nbsp; [live ↗](https://motion.markxian.cn) — Previewable Flutter animations with traceable pitfalls + a parameter playground, reusable via remote MCP.
 <sub>`Astro` · `Flutter` · `MCP`</sub>
