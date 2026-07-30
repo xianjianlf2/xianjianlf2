@@ -13,7 +13,7 @@
 
 ## About
 
-I'm a frontend engineer and product builder based in Guangdong, China. I turn new AI capabilities into products people can actually use—from agentic interfaces and document intelligence to privacy-first developer tools.
+I'm an AI product builder based in Guangdong, China. I turn emerging AI capabilities into products people can actually use—from agent-native canvases and document intelligence to privacy-first developer tools.
 
 My favorite work sits where **product thinking**, **interface design**, and **engineering depth** overlap: find the hard interaction, make it feel obvious, then ship the whole thing.
 
