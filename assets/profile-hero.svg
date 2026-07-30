@@ -1,0 +1,50 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="72" y1="28" x2="1124" y2="298" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.48" stop-color="#111B33"/>
+      <stop offset="1" stop-color="#17102B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="200" y1="96" x2="865" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.48" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientTransform="translate(941 52) rotate(128.3) scale(289 332)">
+      <stop stop-color="#2563EB" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#2563EB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowMint" cx="0" cy="0" r="1" gradientTransform="translate(157 305) rotate(-50.2) scale(266 297)">
+      <stop stop-color="#14B8A6" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#E2E8F0" stroke-opacity=".045"/>
+    </pattern>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glowBlue)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glowMint)"/>
+
+  <circle cx="1092" cy="70" r="74" stroke="#93C5FD" stroke-opacity=".12"/>
+  <circle cx="1092" cy="70" r="48" stroke="#C4B5FD" stroke-opacity=".14"/>
+  <path d="M962 234C1032 177 1084 184 1154 117" stroke="url(#accent)" stroke-opacity=".24" stroke-width="2"/>
+  <circle cx="962" cy="234" r="5" fill="#5EEAD4"/>
+  <circle cx="1056" cy="174" r="5" fill="#60A5FA"/>
+  <circle cx="1154" cy="117" r="5" fill="#C084FC"/>
+
+  <g filter="url(#blur)" opacity=".26">
+    <ellipse cx="354" cy="130" rx="210" ry="44" fill="#2563EB"/>
+  </g>
+
+  <text x="72" y="100" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" font-weight="600" letter-spacing="4">HELLO, I'M</text>
+  <text x="70" y="172" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="70" font-weight="750" letter-spacing="-2">Mark Xian</text>
+  <rect x="72" y="194" width="540" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="72" y="246" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25" font-weight="450">Building useful AI products — from idea to production.</text>
+  <text x="72" y="282" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="17">AI products  ·  developer tools  ·  open source</text>
+</svg>
