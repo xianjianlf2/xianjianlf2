@@ -17,6 +17,8 @@ I'm an AI product builder based in Guangdong, China. I turn emerging AI capabili
 
 My favorite work sits where **product thinking**, **interface design**, and **engineering depth** overlap: find the hard interaction, make it feel obvious, then ship the whole thing.
 
+> **Make ideas useful. Ship them well.**
+>
 > Currently exploring how AI agents can work *with* visual canvases instead of only replying in chat.
 
 ## Now building
