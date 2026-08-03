@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Mark Xian — building useful AI products from idea to production" />
+<img src="./assets/profile-hero.svg" width="100%" alt="Mark Xian — building AI-native tools for clearer thinking" />
 
 <br />
 
@@ -13,11 +13,11 @@
 
 ## About
 
-I'm an AI product builder based in Guangdong, China. I turn emerging AI capabilities into products people can actually use—from agent-native canvases and document intelligence to privacy-first developer tools.
+I'm an AI product engineer based in Guangdong, China. I build AI-native tools that make complex information easier to understand, edit, and act on—from agentic canvases and document intelligence to developer workflows.
 
-My favorite work sits where **product thinking**, **interface design**, and **engineering depth** overlap: find the hard interaction, make it feel obvious, then ship the whole thing.
+My best work sits where **product taste**, **interaction design**, and **engineering depth** meet: reduce ambiguity, make the interface feel inevitable, and ship the details that make a product hold together.
 
-> **Make ideas useful. Ship them well.**
+> **Build tools that make thinking clearer.**
 >
 > Currently exploring how AI agents can work *with* visual canvases instead of only replying in chat.
 
