@@ -50,9 +50,9 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [Mastra](https://github.com/mastra-ai/mastra) | [Abort A2A streams when tasks are canceled](https://github.com/mastra-ai/mastra/pull/20505) |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) | [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) |
-| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) |
+| [stablyai/orca](https://github.com/stablyai/orca) | [Post POSIX agent-hook payloads as JSON](https://github.com/stablyai/orca/pull/11292) |
+| [Calico](https://github.com/projectcalico/calico) | [Re-advertise service external IPs from route reflectors](https://github.com/projectcalico/calico/pull/13413) |
+| [Navideck/universal_ble](https://github.com/Navideck/universal_ble) | [Compare `BleCharacteristic` values consistently](https://github.com/Navideck/universal_ble/pull/275) |
 
 <details>
 <summary><b>More active upstream work</b></summary>
@@ -61,22 +61,25 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | Project | Current contribution |
 | :-- | :-- |
 | [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
-| [Firewood](https://github.com/ava-labs/firewood) | [Escape JSON strings in `fwdctl` dumps](https://github.com/ava-labs/firewood/pull/2177) |
-| [Calico](https://github.com/projectcalico/calico) | [Expose Typha server write-timeout configuration](https://github.com/projectcalico/calico/pull/13411) |
+| [Quilt](https://github.com/quiltdata/quilt-rs) | [Add JSON output for read commands](https://github.com/quiltdata/quilt-rs/pull/851) · [Add package revision history](https://github.com/quiltdata/quilt-rs/pull/849) |
+| [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) |
+| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) |
 | [Effect](https://github.com/Effect-TS/effect) | [Guard `import.meta.env` in `ConfigProvider.fromEnv`](https://github.com/Effect-TS/effect/pull/6570) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
+| [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
 
 </details>
 
-<sub>Curated snapshot checked on 7 Aug 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 11 Aug 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) | [Fail closed on zero-inode file-cache entries](https://github.com/QwenLM/qwen-code/pull/8290) |
-| [Mastra](https://github.com/mastra-ai/mastra) | [Retry empty working-memory extraction](https://github.com/mastra-ai/mastra/pull/20565) |
-| [pnpm](https://github.com/pnpm/pnpm) | [Apply the `publishedBy` cutoff to the held-back update baseline](https://github.com/pnpm/pnpm/pull/13115) |
+| [Firewood](https://github.com/ava-labs/firewood) | [Escape JSON strings in `fwdctl` dumps](https://github.com/ava-labs/firewood/pull/2177) |
+| [stablyai/orca](https://github.com/stablyai/orca) | [Open symlink files when stat fails](https://github.com/stablyai/orca/pull/11670) |
+| [Dashi Taskboard](https://github.com/chuspeeism/dashi-taskboard) | [Improve dark-mode select contrast](https://github.com/chuspeeism/dashi-taskboard/pull/2) |
 
 <details>
 <summary><b>More recent and earlier merged work</b></summary>
@@ -84,6 +87,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [faker](https://github.com/faker-js/faker) | [Exclude reserved port 0 from `internet.port()`](https://github.com/faker-js/faker/pull/3948) |
+| [Quilt](https://github.com/quiltdata/quilt-rs) | [Give `quilt list` a table of bucket, namespace, and status](https://github.com/quiltdata/quilt-rs/pull/846) |
+| [MLflow](https://github.com/mlflow/mlflow) | [Hide redundant metric names in chart cards](https://github.com/mlflow/mlflow/pull/23212) |
+| [Beanie](https://github.com/BeanieODM/beanie) | [Preserve awaitable types for find-one upsert](https://github.com/BeanieODM/beanie/pull/1346) |
+| [Mastra](https://github.com/mastra-ai/mastra) | [Abort A2A streams when tasks are canceled](https://github.com/mastra-ai/mastra/pull/20505) · [Retry empty working-memory extraction](https://github.com/mastra-ai/mastra/pull/20565) |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | [Fail closed on zero-inode file-cache entries](https://github.com/QwenLM/qwen-code/pull/8290) |
+| [pnpm](https://github.com/pnpm/pnpm) | [Apply the `publishedBy` cutoff to the held-back update baseline](https://github.com/pnpm/pnpm/pull/13115) |
 | [Luxon](https://github.com/moment/luxon) | [Respect endpoint zones in `hasSame` for empty intervals](https://github.com/moment/luxon/pull/1790) |
 | [Calico](https://github.com/projectcalico/calico) | [Sanitize chart-version labels](https://github.com/projectcalico/calico/pull/13412) |
 | [Kaneo](https://github.com/usekaneo/kaneo) | [Avoid per-task kanban metadata requests](https://github.com/usekaneo/kaneo/pull/1475) |
