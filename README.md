@@ -51,7 +51,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | Project | Current contribution |
 | :-- | :-- |
 | [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
-| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) |
+| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) · [Expose large output config on custom agents](https://github.com/github/copilot-sdk/pull/2333) |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) |
 
 <details>
