@@ -50,9 +50,9 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
+| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
+| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) |
-| [TanStack Router](https://github.com/TanStack/router) | [Respect `wrapInSuspense` in Solid Router](https://github.com/TanStack/router/pull/7898) |
-| [stablyai/orca](https://github.com/stablyai/orca) | [Open files in the default app](https://github.com/stablyai/orca/pull/11268) |
 
 <details>
 <summary><b>More active upstream work</b></summary>
@@ -60,26 +60,26 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [stablyai/orca](https://github.com/stablyai/orca) | [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Post POSIX agent-hook payloads as JSON](https://github.com/stablyai/orca/pull/11292) |
+| [superstruct](https://github.com/ianstormtaylor/superstruct) | [Preserve input coercion when merging structs](https://github.com/ianstormtaylor/superstruct/pull/1300) |
+| [TanStack Router](https://github.com/TanStack/router) | [Respect `wrapInSuspense` in Solid Router](https://github.com/TanStack/router/pull/7898) |
+| [stablyai/orca](https://github.com/stablyai/orca) | [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Post POSIX agent-hook payloads as JSON](https://github.com/stablyai/orca/pull/11292) |
 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Refresh Core Service agent registration on install](https://github.com/pqrs-org/Karabiner-Elements/pull/4529) · [Add default mouse modification setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4530) |
 | [browser-use](https://github.com/browser-use/browser-use) | [Return errors for stale click and dropdown actions](https://github.com/browser-use/browser-use/pull/5455) |
-| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [Kimi Code](https://github.com/MoonshotAI/kimi-code) | [Fix code-workspace path escape errors](https://github.com/MoonshotAI/kimi-code/pull/2283) |
 | [Quilt](https://github.com/quiltdata/quilt-rs) | [Show actionable S3 errors in QuiltSync](https://github.com/quiltdata/quilt-rs/pull/861) · [Add JSON output for read commands](https://github.com/quiltdata/quilt-rs/pull/851) |
 | [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) |
-| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
 
 </details>
 
-<sub>Curated snapshot checked on 13 Aug 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 14 Aug 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
-| [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Add duration to notification messages](https://github.com/pqrs-org/Karabiner-Elements/pull/4525) |
+| [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Add ctrl-click to command-click example](https://github.com/pqrs-org/Karabiner-Elements/pull/4527) · [Add notification window position setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4528) · [Add duration to notification messages](https://github.com/pqrs-org/Karabiner-Elements/pull/4525) |
 | [Calico](https://github.com/projectcalico/calico) | [Re-advertise service external IPs from route reflectors](https://github.com/projectcalico/calico/pull/13413) |
 | [Effect](https://github.com/Effect-TS/effect) | [Return fresh cached specs from OpenAPI](https://github.com/Effect-TS/effect/pull/6550) · [Stringify bigint values in JSON diagnostics](https://github.com/Effect-TS/effect/pull/6546) |
 
