@@ -54,6 +54,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) |
 | [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) · [Expose large output config on custom agents](https://github.com/github/copilot-sdk/pull/2333) |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) · [Report compression API failures distinctly](https://github.com/QwenLM/qwen-code/pull/9119) |
+| [TanStack Router](https://github.com/TanStack/router) | [Avoid repeated React Navigate rerenders](https://github.com/TanStack/router/pull/8064) |
 
 <details>
 <summary><b>More active upstream work</b></summary>
