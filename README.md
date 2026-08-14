@@ -66,10 +66,12 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Refresh Core Service agent registration on install](https://github.com/pqrs-org/Karabiner-Elements/pull/4529) · [Add default mouse modification setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4530) |
 | [browser-use](https://github.com/browser-use/browser-use) | [Return errors for stale click and dropdown actions](https://github.com/browser-use/browser-use/pull/5455) |
 | [Kimi Code](https://github.com/MoonshotAI/kimi-code) | [Fix code-workspace path escape errors](https://github.com/MoonshotAI/kimi-code/pull/2283) |
-| [Quilt](https://github.com/quiltdata/quilt-rs) | [Show actionable S3 errors in QuiltSync](https://github.com/quiltdata/quilt-rs/pull/861) · [Add JSON output for read commands](https://github.com/quiltdata/quilt-rs/pull/851) |
+| [Quilt](https://github.com/quiltdata/quilt-rs) | [Show actionable S3 errors in QuiltSync](https://github.com/quiltdata/quilt-rs/pull/861) · [Add reset command for local-only packages](https://github.com/quiltdata/quilt-rs/pull/860) · [Add JSON output for read commands](https://github.com/quiltdata/quilt-rs/pull/851) |
 | [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) |
-| [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
+| [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Fix relation-name collision with inherited keys](https://github.com/drizzle-team/drizzle-orm/pull/6086) · [Preserve Unicode identifiers in casing helpers](https://github.com/drizzle-team/drizzle-orm/pull/6087) · [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
+| [fast-check](https://github.com/dubzzz/fast-check) | [Allow sync beforeEach hooks for async properties](https://github.com/dubzzz/fast-check/pull/7191) |
+| [sktime](https://github.com/sktime/sktime) | [Replace sklearn grid search with native evaluate](https://github.com/sktime/sktime/pull/10749) |
 
 </details>
 
