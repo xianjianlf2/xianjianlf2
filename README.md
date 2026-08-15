@@ -50,12 +50,12 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) · [Add DeepSeek thinking mode toggle](https://github.com/moeru-ai/airi/pull/2280) |
+| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [Effect](https://github.com/Effect-TS/effect) | [Preserve JSON.rawJSON in cached OpenAPI specs](https://github.com/Effect-TS/effect/pull/7250) |
-| [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) |
+| [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
 | [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) · [Expose large output config on custom agents](https://github.com/github/copilot-sdk/pull/2333) |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) · [Report compression API failures distinctly](https://github.com/QwenLM/qwen-code/pull/9119) |
-| [TanStack Router](https://github.com/TanStack/router) | [Avoid repeated React Navigate rerenders](https://github.com/TanStack/router/pull/8064) |
+| [TanStack Router](https://github.com/TanStack/router) | [Avoid repeated React Navigate rerenders](https://github.com/TanStack/router/pull/8064) · [Respect `wrapInSuspense` in Solid Router](https://github.com/TanStack/router/pull/7898) |
 
 <details>
 <summary><b>More active upstream work</b></summary>
@@ -64,7 +64,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | Project | Current contribution |
 | :-- | :-- |
 | [superstruct](https://github.com/ianstormtaylor/superstruct) | [Preserve input coercion when merging structs](https://github.com/ianstormtaylor/superstruct/pull/1300) |
-| [TanStack Router](https://github.com/TanStack/router) | [Respect `wrapInSuspense` in Solid Router](https://github.com/TanStack/router/pull/7898) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Post POSIX agent-hook payloads as JSON](https://github.com/stablyai/orca/pull/11292) |
 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Refresh Core Service agent registration on install](https://github.com/pqrs-org/Karabiner-Elements/pull/4529) · [Add default mouse modification setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4530) |
 | [browser-use](https://github.com/browser-use/browser-use) | [Return errors for stale click and dropdown actions](https://github.com/browser-use/browser-use/pull/5455) |
@@ -72,21 +71,20 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Quilt](https://github.com/quiltdata/quilt-rs) | [Show actionable S3 errors in QuiltSync](https://github.com/quiltdata/quilt-rs/pull/861) · [Add reset command for local-only packages](https://github.com/quiltdata/quilt-rs/pull/860) · [Add JSON output for read commands](https://github.com/quiltdata/quilt-rs/pull/851) |
 | [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Fix relation-name collision with inherited keys](https://github.com/drizzle-team/drizzle-orm/pull/6086) · [Preserve Unicode identifiers in casing helpers](https://github.com/drizzle-team/drizzle-orm/pull/6087) · [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
-| [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
 | [fast-check](https://github.com/dubzzz/fast-check) | [Allow sync beforeEach hooks for async properties](https://github.com/dubzzz/fast-check/pull/7191) |
 | [sktime](https://github.com/sktime/sktime) | [Replace sklearn grid search with native evaluate](https://github.com/sktime/sktime/pull/10749) |
 
 </details>
 
-<sub>Curated snapshot checked on 14 Aug 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 15 Aug 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [Calico](https://github.com/projectcalico/calico) | [Expose server write timeout configuration](https://github.com/projectcalico/calico/pull/13411) · [Re-advertise service external IPs from route reflectors](https://github.com/projectcalico/calico/pull/13413) |
+| [AIRI](https://github.com/moeru-ai/airi) | [Add DeepSeek thinking mode toggle](https://github.com/moeru-ai/airi/pull/2280) |
 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Add ctrl-click to command-click example](https://github.com/pqrs-org/Karabiner-Elements/pull/4527) · [Add notification window position setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4528) · [Add duration to notification messages](https://github.com/pqrs-org/Karabiner-Elements/pull/4525) |
-| [Calico](https://github.com/projectcalico/calico) | [Re-advertise service external IPs from route reflectors](https://github.com/projectcalico/calico/pull/13413) |
-| [Effect](https://github.com/Effect-TS/effect) | [Return fresh cached specs from OpenAPI](https://github.com/Effect-TS/effect/pull/6550) · [Stringify bigint values in JSON diagnostics](https://github.com/Effect-TS/effect/pull/6546) |
 
 <details>
 <summary><b>More recent and earlier merged work</b></summary>
@@ -94,6 +92,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [Effect](https://github.com/Effect-TS/effect) | [Return fresh cached specs from OpenAPI](https://github.com/Effect-TS/effect/pull/6550) · [Stringify bigint values in JSON diagnostics](https://github.com/Effect-TS/effect/pull/6546) |
 | [Firewood](https://github.com/ava-labs/firewood) | [Escape JSON strings in `fwdctl` dumps](https://github.com/ava-labs/firewood/pull/2177) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Open symlink files when stat fails](https://github.com/stablyai/orca/pull/11670) |
 | [Dashi Taskboard](https://github.com/chuspeeism/dashi-taskboard) | [Improve dark-mode select contrast](https://github.com/chuspeeism/dashi-taskboard/pull/2) |
