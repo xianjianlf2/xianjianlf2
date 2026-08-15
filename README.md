@@ -50,7 +50,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
+| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) · [Fix DeepSeek provider instance settings](https://github.com/moeru-ai/airi/pull/2287) |
 | [Effect](https://github.com/Effect-TS/effect) | [Preserve JSON.rawJSON in cached OpenAPI specs](https://github.com/Effect-TS/effect/pull/7250) |
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
 | [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) · [Expose large output config on custom agents](https://github.com/github/copilot-sdk/pull/2333) |
