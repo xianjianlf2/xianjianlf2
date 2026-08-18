@@ -50,6 +50,8 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
+| [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
+| [PrimeIntellect Verifiers](https://github.com/PrimeIntellect-ai/verifiers) | [Address DeepSeek Harness review feedback](https://github.com/PrimeIntellect-ai/verifiers/pull/2383) |
 | [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) · [Fix DeepSeek provider instance settings](https://github.com/moeru-ai/airi/pull/2287) |
 | [Effect](https://github.com/Effect-TS/effect) | [Preserve JSON.rawJSON in cached OpenAPI specs](https://github.com/Effect-TS/effect/pull/7250) |
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
@@ -63,6 +65,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
+| [OmniGent](https://github.com/anxkhn/omnigent) | [Fix DeepSeek Harness setup regressions](https://github.com/anxkhn/omnigent/pull/1) |
 | [superstruct](https://github.com/ianstormtaylor/superstruct) | [Preserve input coercion when merging structs](https://github.com/ianstormtaylor/superstruct/pull/1300) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Post POSIX agent-hook payloads as JSON](https://github.com/stablyai/orca/pull/11292) |
 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Refresh Core Service agent registration on install](https://github.com/pqrs-org/Karabiner-Elements/pull/4529) · [Add default mouse modification setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4530) |
@@ -76,12 +79,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 15 Aug 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 18 Aug 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [VidBee](https://github.com/nexmoe/VidBee) | [Keep external download path in portable mode](https://github.com/nexmoe/VidBee/pull/434) |
 | [Calico](https://github.com/projectcalico/calico) | [Expose server write timeout configuration](https://github.com/projectcalico/calico/pull/13411) · [Re-advertise service external IPs from route reflectors](https://github.com/projectcalico/calico/pull/13413) |
 | [AIRI](https://github.com/moeru-ai/airi) | [Add DeepSeek thinking mode toggle](https://github.com/moeru-ai/airi/pull/2280) |
 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Add ctrl-click to command-click example](https://github.com/pqrs-org/Karabiner-Elements/pull/4527) · [Add notification window position setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4528) · [Add duration to notification messages](https://github.com/pqrs-org/Karabiner-Elements/pull/4525) |
