@@ -50,8 +50,8 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
+| [TanStack Query](https://github.com/TanStack/query) | [Avoid rejecting imperative fetches with `CancelledError`](https://github.com/TanStack/query/pull/11061) |
 | [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
-| [PrimeIntellect Verifiers](https://github.com/PrimeIntellect-ai/verifiers) | [Address DeepSeek Harness review feedback](https://github.com/PrimeIntellect-ai/verifiers/pull/2383) |
 | [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) · [Fix DeepSeek provider instance settings](https://github.com/moeru-ai/airi/pull/2287) |
 | [Effect](https://github.com/Effect-TS/effect) | [Preserve JSON.rawJSON in cached OpenAPI specs](https://github.com/Effect-TS/effect/pull/7250) |
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
@@ -79,7 +79,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 18 Aug 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 19 Aug 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
