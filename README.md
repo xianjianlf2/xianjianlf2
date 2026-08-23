@@ -53,7 +53,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [cc-switch](https://github.com/yang227/cc-switch) | [Fix DeepSeek Harness review issues](https://github.com/yang227/cc-switch/pull/1) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Post POSIX agent-hook payloads as JSON](https://github.com/stablyai/orca/pull/11292) |
 | [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
-| [Fastify HTTP Proxy](https://github.com/fastify/fastify-http-proxy) | [Scope WebSocket upgrades to the proxy prefix](https://github.com/fastify/fastify-http-proxy/pull/475) |
 | [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
 | [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
@@ -78,13 +77,14 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 21 Aug 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 23 Aug 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
 | [DingTalk Workspace CLI](https://github.com/luxiang-clx/dingtalk-workspace-cli) | [Align DSH skill root handling](https://github.com/luxiang-clx/dingtalk-workspace-cli/pull/1) |
+| [Fastify HTTP Proxy](https://github.com/fastify/fastify-http-proxy) | [Scope WebSocket upgrades to the proxy prefix](https://github.com/fastify/fastify-http-proxy/pull/475) |
 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Add default mouse modification setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4530) · [Add ctrl-click to command-click example](https://github.com/pqrs-org/Karabiner-Elements/pull/4527) · [Add notification window position setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4528) · [Add duration to notification messages](https://github.com/pqrs-org/Karabiner-Elements/pull/4525) |
 | [AIRI](https://github.com/moeru-ai/airi) | [Fix DeepSeek provider instance settings](https://github.com/moeru-ai/airi/pull/2287) · [Add DeepSeek thinking mode toggle](https://github.com/moeru-ai/airi/pull/2280) |
 | [Effect](https://github.com/Effect-TS/effect) | [Preserve JSON.rawJSON in cached OpenAPI specs](https://github.com/Effect-TS/effect/pull/7250) · [Return fresh cached specs from OpenAPI](https://github.com/Effect-TS/effect/pull/6550) · [Stringify bigint values in JSON diagnostics](https://github.com/Effect-TS/effect/pull/6546) |
