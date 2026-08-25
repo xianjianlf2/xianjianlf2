@@ -50,6 +50,10 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
+| [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) |
+| [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
+| [claude-mem](https://github.com/vega0707/claude-mem) | [Fix transcript watcher durable offset commits](https://github.com/vega0707/claude-mem/pull/1) |
+| [llmtrim](https://github.com/Zenjibad/llmtrim) | [Fix explicit DSH shim path resolution](https://github.com/Zenjibad/llmtrim/pull/1) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Stop terminal interception of Messages 2FA/OTP codes](https://github.com/manaflow-ai/cmux/pull/7973) |
 | [cc-switch](https://github.com/yang227/cc-switch) | [Fix DeepSeek Harness review issues](https://github.com/yang227/cc-switch/pull/1) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Post POSIX agent-hook payloads as JSON](https://github.com/stablyai/orca/pull/11292) |
@@ -78,12 +82,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 24 Aug 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 25 Aug 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [PapaParse](https://github.com/mholt/PapaParse) | [Apply `transformHeader` only once per header](https://github.com/mholt/PapaParse/pull/1130) |
 | [DingTalk Workspace CLI](https://github.com/luxiang-clx/dingtalk-workspace-cli) | [Align DSH skill root handling](https://github.com/luxiang-clx/dingtalk-workspace-cli/pull/1) |
 | [Fastify HTTP Proxy](https://github.com/fastify/fastify-http-proxy) | [Scope WebSocket upgrades to the proxy prefix](https://github.com/fastify/fastify-http-proxy/pull/475) |
 | [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) | [Add default mouse modification setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4530) · [Add ctrl-click to command-click example](https://github.com/pqrs-org/Karabiner-Elements/pull/4527) · [Add notification window position setting](https://github.com/pqrs-org/Karabiner-Elements/pull/4528) · [Add duration to notification messages](https://github.com/pqrs-org/Karabiner-Elements/pull/4525) |
