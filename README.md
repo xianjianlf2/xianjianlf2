@@ -50,18 +50,16 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) |
+| [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [claude-mem](https://github.com/vega0707/claude-mem) | [Fix transcript watcher durable offset commits](https://github.com/vega0707/claude-mem/pull/1) |
-| [llmtrim](https://github.com/Zenjibad/llmtrim) | [Fix explicit DSH shim path resolution](https://github.com/Zenjibad/llmtrim/pull/1) |
-| [cmux](https://github.com/manaflow-ai/cmux) | [Stop terminal interception of Messages 2FA/OTP codes](https://github.com/manaflow-ai/cmux/pull/7973) |
+| [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Stop terminal interception of Messages 2FA/OTP codes](https://github.com/manaflow-ai/cmux/pull/7973) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
 | [cc-switch](https://github.com/yang227/cc-switch) | [Fix DeepSeek Harness review issues](https://github.com/yang227/cc-switch/pull/1) |
-| [stablyai/orca](https://github.com/stablyai/orca) | [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Post POSIX agent-hook payloads as JSON](https://github.com/stablyai/orca/pull/11292) |
+| [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) |
 | [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
 | [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
 | [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
-| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) · [Expose large output config on custom agents](https://github.com/github/copilot-sdk/pull/2333) |
 
 <details>
 <summary><b>More active upstream work</b></summary>
@@ -69,25 +67,65 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [Qwen Code](https://github.com/QwenLM/qwen-code) | [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) · [Report compression API failures distinctly](https://github.com/QwenLM/qwen-code/pull/9119) |
-| [TanStack Router](https://github.com/TanStack/router) | [Avoid repeated React Navigate rerenders](https://github.com/TanStack/router/pull/8064) · [Respect `wrapInSuspense` in Solid Router](https://github.com/TanStack/router/pull/7898) |
+| [Unplug](https://github.com/UnplugAI/Unplug) | [Align security claims with implementation](https://github.com/UnplugAI/Unplug/pull/178) |
+| [n8n AI Agent Security Lab](https://github.com/0xCD4/n8n-ai-agent-security-lab) | [Add a broad AI HTTP tool fixture](https://github.com/0xCD4/n8n-ai-agent-security-lab/pull/6) |
+| [Vite](https://github.com/vitejs/vite) | [Skip glob transforms when only the query string varies](https://github.com/vitejs/vite/pull/22938) |
+| [MLflow](https://github.com/mlflow/mlflow) | [Add GitHub Copilot SDK tracing integration](https://github.com/mlflow/mlflow/pull/25426) |
+| [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | [Decode URI template match values](https://github.com/modelcontextprotocol/typescript-sdk/pull/2732) |
+| [LangChain.js](https://github.com/langchain-ai/langchainjs) | [Support HITL respond decisions](https://github.com/langchain-ai/langchainjs/pull/11498) · [Preserve audio in Responses input](https://github.com/langchain-ai/langchainjs/pull/11493) |
+| [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
+| [Vercel AI SDK](https://github.com/vercel/ai) | [Add LangChain message-history hydration helpers](https://github.com/vercel/ai/pull/19913) |
+| [LiteLLM](https://github.com/BerriAI/litellm) | [Include annotation page costs](https://github.com/BerriAI/litellm/pull/38621) · [Hold fallback lifecycle frames](https://github.com/BerriAI/litellm/pull/38623) |
+| [Fastify JWT](https://github.com/fastify/fastify-jwt) | [Honor per-request key overrides](https://github.com/fastify/fastify-jwt/pull/423) |
+| [perm-gate](https://github.com/jbisaccia-9/perm-gate) | [Add an optional live LLM baseline](https://github.com/jbisaccia-9/perm-gate/pull/6) |
+| [MCP Seatbelt](https://github.com/KryptosAI/mcp-seatbelt) | [Add an upstream health endpoint](https://github.com/KryptosAI/mcp-seatbelt/pull/16) |
+| [TanStack Router](https://github.com/TanStack/router) | [Preserve encoded slashes in splat params](https://github.com/TanStack/router/pull/7893) · [Avoid repeated React Navigate rerenders](https://github.com/TanStack/router/pull/8064) · [Respect `wrapInSuspense` in Solid Router](https://github.com/TanStack/router/pull/7898) |
+| [Maestro](https://github.com/mobile-dev-inc/Maestro) | [Reuse hierarchy on lookup failures](https://github.com/mobile-dev-inc/Maestro/pull/3481) |
+| [OpenSpec](https://github.com/DarkskyX15/OpenSpec) | [Address DSH review follow-ups](https://github.com/DarkskyX15/OpenSpec/pull/1) |
+| [OpenMausBot](https://github.com/NuCl34R/OpenMausBot) | [Fix DSH retired Host turn fences](https://github.com/NuCl34R/OpenMausBot/pull/1) |
+| [codeburn](https://github.com/MiloMMIN/codeburn) | [Guard DSH zstd support on older Node](https://github.com/MiloMMIN/codeburn/pull/1) |
 | [superstruct](https://github.com/ianstormtaylor/superstruct) | [Preserve input coercion when merging structs](https://github.com/ianstormtaylor/superstruct/pull/1300) |
 | [browser-use](https://github.com/browser-use/browser-use) | [Return errors for stale click and dropdown actions](https://github.com/browser-use/browser-use/pull/5455) |
-| [Kimi Code](https://github.com/MoonshotAI/kimi-code) | [Fix code-workspace path escape errors](https://github.com/MoonshotAI/kimi-code/pull/2283) |
-| [Quilt](https://github.com/quiltdata/quilt-rs) | [Show actionable S3 errors in QuiltSync](https://github.com/quiltdata/quilt-rs/pull/861) · [Add reset command for local-only packages](https://github.com/quiltdata/quilt-rs/pull/860) · [Add JSON output for read commands](https://github.com/quiltdata/quilt-rs/pull/851) |
-| [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) |
+| [Kimi Code](https://github.com/MoonshotAI/kimi-code) | [Restore the VS Code todo-list card](https://github.com/MoonshotAI/kimi-code/pull/3367) · [Fix code-workspace path escape errors](https://github.com/MoonshotAI/kimi-code/pull/2283) · [Sanitize download filenames](https://github.com/MoonshotAI/kimi-code/pull/2286) |
+| [Quilt](https://github.com/quiltdata/quilt-rs) | [Share S3 clients across cloned remote handles](https://github.com/quiltdata/quilt-rs/pull/884) · [Cache valid credentials and invalidate them on logout](https://github.com/quiltdata/quilt-rs/pull/885) · [Ignore filesystem events from status reads](https://github.com/quiltdata/quilt-rs/pull/886) · [Flush the log tail before Tauri exits](https://github.com/quiltdata/quilt-rs/pull/883) · [Publish Windows x86_64 quilt-cli binaries](https://github.com/quiltdata/quilt-rs/pull/859) |
+| [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) · [Create complete field meta for uninitialized fields](https://github.com/TanStack/form/pull/2245) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Fix relation-name collision with inherited keys](https://github.com/drizzle-team/drizzle-orm/pull/6086) · [Preserve Unicode identifiers in casing helpers](https://github.com/drizzle-team/drizzle-orm/pull/6087) · [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
 | [fast-check](https://github.com/dubzzz/fast-check) | [Allow sync beforeEach hooks for async properties](https://github.com/dubzzz/fast-check/pull/7191) |
+| [LangGraph.js](https://github.com/langchain-ai/langgraphjs) | [Pin Node 26 tracing test job to 26.7.0](https://github.com/langchain-ai/langgraphjs/pull/2753) |
+| [GoogleChrome/webstatus.dev](https://github.com/GoogleChrome/webstatus.dev) | [Clarify browser availability in WPT cards](https://github.com/GoogleChrome/webstatus.dev/pull/2670) |
+| [class-transformer](https://github.com/typestack/class-transformer) | [Preserve readonly array overloads](https://github.com/typestack/class-transformer/pull/1848) |
 | [sktime](https://github.com/sktime/sktime) | [Replace sklearn grid search with native evaluate](https://github.com/sktime/sktime/pull/10749) |
 
 </details>
 
-<sub>Curated snapshot checked on 25 Aug 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 4 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [Qwen Code](https://github.com/QwenLM/qwen-code) | [Report compression API failures distinctly](https://github.com/QwenLM/qwen-code/pull/9119) · [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) |
+| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) |
+| [ARGUS](https://github.com/ArgusLabs-ai/ARGUS) | [Remove unreachable LLM modules](https://github.com/ArgusLabs-ai/ARGUS/pull/48) · [Grade and report the exact check run](https://github.com/ArgusLabs-ai/ARGUS/pull/64) |
+| [streamcore-server](https://github.com/streamcoreai/streamcore-server) | [Make the OpenAI transcription model configurable](https://github.com/streamcoreai/streamcore-server/pull/72) |
+| [reticle](https://github.com/reticlehq/reticle) | [Harden MCP proxy POST transport against socket exhaustion](https://github.com/reticlehq/reticle/pull/631) |
+| [sysknife](https://github.com/lacs-project/sysknife) | [Keep provider keys out of VM process arguments](https://github.com/lacs-project/sysknife/pull/316) |
+| [ship-safe](https://github.com/asamassekou10/ship-safe) | [Detect unpinned AI actions](https://github.com/asamassekou10/ship-safe/pull/175) |
+| [OpenAgent Eval](https://github.com/OpenAgentHQ/openagent-eval) | [Add a zero-key quickstart](https://github.com/OpenAgentHQ/openagent-eval/pull/365) |
+| [Agent of Empires](https://github.com/agent-of-empires/agent-of-empires) | [Preserve UTF-8 names when stopping sessions](https://github.com/agent-of-empires/agent-of-empires/pull/3584) |
+| [homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | [Centralize Python dependency management](https://github.com/SikamikanikoBG/homelab-monitor/pull/291) |
+| [NimbleBrain](https://github.com/NimbleBrainInc/nimblebrain) | [Keep the worktree seed schema-valid](https://github.com/NimbleBrainInc/nimblebrain/pull/1065) |
+| [hflow](https://github.com/Hebbian-Robotics/hflow) | [Make judgment outcomes exclusive](https://github.com/Hebbian-Robotics/hflow/pull/327) |
+| [localvectordb](https://github.com/thomas-villani/localvectordb) | [Reject MCP database lifecycle no-ops](https://github.com/thomas-villani/localvectordb/pull/80) |
+| [skincare-qa](https://github.com/MoleCare/skincare-qa) | [Make local checkout paths portable](https://github.com/MoleCare/skincare-qa/pull/23) |
+| [Context Passport Python](https://github.com/contextpassport/python) | [Validate passport event types against the v2 schema](https://github.com/contextpassport/python/pull/14) |
+| [Quilt](https://github.com/quiltdata/quilt-rs) | [Add `quilt log`, listing copy revisions](https://github.com/quiltdata/quilt-rs/pull/849) · [Add reset command for local-only packages](https://github.com/quiltdata/quilt-rs/pull/860) · [Treat rejected credentials as dead sessions](https://github.com/quiltdata/quilt-rs/pull/861) · [Add `--json` output and non-zero failures](https://github.com/quiltdata/quilt-rs/pull/851) · [Run fork pull requests with credential-free CI](https://github.com/quiltdata/quilt-rs/pull/858) |
+| [Context Passport TypeScript](https://github.com/contextpassport/typescript) | [Validate passport event types against the v2 schema](https://github.com/contextpassport/typescript/pull/12) |
+| [agent-me](https://github.com/jzjzzzzzzz/agent-me) | [Sync localized document metadata](https://github.com/jzjzzzzzzz/agent-me/pull/43) |
+| [kareya](https://github.com/ismailperim/kareya) | [Add an OpenAI-compatible content provider](https://github.com/ismailperim/kareya/pull/58) |
+| [stablyai/orca](https://github.com/stablyai/orca) | [Post POSIX agent-hook payloads as JSON](https://github.com/stablyai/orca/pull/11292) |
+| [llmtrim](https://github.com/Zenjibad/llmtrim) | [Fix explicit DSH shim path resolution](https://github.com/Zenjibad/llmtrim/pull/1) |
+| [parsar](https://github.com/MiniMax-AI-Dev/parsar) | [Bump Go patch version for govulncheck](https://github.com/MiniMax-AI-Dev/parsar/pull/262) |
 | [PapaParse](https://github.com/mholt/PapaParse) | [Apply `transformHeader` only once per header](https://github.com/mholt/PapaParse/pull/1130) |
 | [DingTalk Workspace CLI](https://github.com/luxiang-clx/dingtalk-workspace-cli) | [Align DSH skill root handling](https://github.com/luxiang-clx/dingtalk-workspace-cli/pull/1) |
 | [Fastify HTTP Proxy](https://github.com/fastify/fastify-http-proxy) | [Scope WebSocket upgrades to the proxy prefix](https://github.com/fastify/fastify-http-proxy/pull/475) |
