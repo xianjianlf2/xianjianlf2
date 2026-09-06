@@ -50,12 +50,12 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) |
+| [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) |
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Stop terminal interception of Messages 2FA/OTP codes](https://github.com/manaflow-ai/cmux/pull/7973) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
 | [cc-switch](https://github.com/yang227/cc-switch) | [Fix DeepSeek Harness review issues](https://github.com/yang227/cc-switch/pull/1) |
-| [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) |
+| [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Move the relay CLI bin dir to the front of PATH](https://github.com/stablyai/orca/pull/8710) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) |
 | [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
 | [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
 | [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
@@ -99,7 +99,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 5 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 6 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
@@ -107,6 +107,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | :-- | :-- |
 | [claude-mem](https://github.com/vega0707/claude-mem) | [Fix transcript watcher durable offset commits](https://github.com/vega0707/claude-mem/pull/1) |
 | [Quilt](https://github.com/quiltdata/quilt-rs) | [Flush the log tail before Tauri exits](https://github.com/quiltdata/quilt-rs/pull/883) · [Infer namespace from the working directory](https://github.com/quiltdata/quilt-rs/pull/850) · [Default home directory on first use](https://github.com/quiltdata/quilt-rs/pull/848) · [Keep tracing logs off stdout by default](https://github.com/quiltdata/quilt-rs/pull/847) · [Add `quilt log`, listing copy revisions](https://github.com/quiltdata/quilt-rs/pull/849) · [Add reset command for local-only packages](https://github.com/quiltdata/quilt-rs/pull/860) · [Treat rejected credentials as dead sessions](https://github.com/quiltdata/quilt-rs/pull/861) · [Add `--json` output and non-zero failures](https://github.com/quiltdata/quilt-rs/pull/851) · [Run fork pull requests with credential-free CI](https://github.com/quiltdata/quilt-rs/pull/858) |
+| [Okto Nexus](https://github.com/OktoLabsAI/okto-nexus) | [Restore and document the live MCP smoke test](https://github.com/OktoLabsAI/okto-nexus/pull/20) |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | [Report compression API failures distinctly](https://github.com/QwenLM/qwen-code/pull/9119) · [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) |
 | [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) |
 | [ARGUS](https://github.com/ArgusLabs-ai/ARGUS) | [Remove unreachable LLM modules](https://github.com/ArgusLabs-ai/ARGUS/pull/48) · [Grade and report the exact check run](https://github.com/ArgusLabs-ai/ARGUS/pull/64) |
