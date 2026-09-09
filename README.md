@@ -52,6 +52,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | :-- | :-- |
 | [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
+| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Serialize concurrent Python client startup](https://github.com/github/copilot-sdk/pull/2570) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Stop terminal interception of Messages 2FA/OTP codes](https://github.com/manaflow-ai/cmux/pull/7973) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
 | [cc-switch](https://github.com/yang227/cc-switch) | [Fix DeepSeek Harness review issues](https://github.com/yang227/cc-switch/pull/1) |
@@ -70,11 +71,12 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Unplug](https://github.com/UnplugAI/Unplug) | [Align security claims with implementation](https://github.com/UnplugAI/Unplug/pull/178) |
 | [n8n AI Agent Security Lab](https://github.com/0xCD4/n8n-ai-agent-security-lab) | [Add a broad AI HTTP tool fixture](https://github.com/0xCD4/n8n-ai-agent-security-lab/pull/6) |
 | [Joi](https://github.com/hapijs/joi) | [Ignore internal references when ordering object keys](https://github.com/hapijs/joi/pull/3129) |
-| [memfs](https://github.com/streamich/memfs) | [Resolve relative streams from virtual cwd](https://github.com/streamich/memfs/pull/1271) |
+| [memfs](https://github.com/streamich/memfs) | [Resolve relative streams from virtual cwd](https://github.com/streamich/memfs/pull/1271) · [Match Node directory iteration lifecycle](https://github.com/streamich/memfs/pull/1284) |
+| [Beanie](https://github.com/BeanieODM/beanie) | [Preserve custom document IDs in inspection errors](https://github.com/BeanieODM/beanie/pull/1371) |
 | [Vite](https://github.com/vitejs/vite) | [Skip glob transforms when only the query string varies](https://github.com/vitejs/vite/pull/22938) |
 | [MLflow](https://github.com/mlflow/mlflow) | [Add GitHub Copilot SDK tracing integration](https://github.com/mlflow/mlflow/pull/25426) |
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | [Decode URI template match values](https://github.com/modelcontextprotocol/typescript-sdk/pull/2732) |
-| [LangChain.js](https://github.com/langchain-ai/langchainjs) | [Support HITL respond decisions](https://github.com/langchain-ai/langchainjs/pull/11498) · [Preserve audio in Responses input](https://github.com/langchain-ai/langchainjs/pull/11493) |
+| [LangChain.js](https://github.com/langchain-ai/langchainjs) | [Support HITL respond decisions](https://github.com/langchain-ai/langchainjs/pull/11498) · [Preserve audio in Responses input](https://github.com/langchain-ai/langchainjs/pull/11493) · [Preserve Perplexity chat completion token usage](https://github.com/langchain-ai/langchainjs/pull/11587) |
 | [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
 | [Anthropic SDK for Python](https://github.com/anthropics/anthropic-sdk-python) | [Wrap mid-stream transport errors](https://github.com/anthropics/anthropic-sdk-python/pull/1920) |
 | [Vercel AI SDK](https://github.com/vercel/ai) | [Add LangChain message-history hydration helpers](https://github.com/vercel/ai/pull/19913) |
@@ -91,7 +93,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [browser-use](https://github.com/browser-use/browser-use) | [Return errors for stale click and dropdown actions](https://github.com/browser-use/browser-use/pull/5455) |
 | [Kimi Code](https://github.com/MoonshotAI/kimi-code) | [Restore the VS Code todo-list card](https://github.com/MoonshotAI/kimi-code/pull/3367) · [Fix code-workspace path escape errors](https://github.com/MoonshotAI/kimi-code/pull/2283) · [Sanitize download filenames](https://github.com/MoonshotAI/kimi-code/pull/2286) · [Parse byte ranges strictly](https://github.com/MoonshotAI/kimi-code/pull/2289) |
 | [Quilt](https://github.com/quiltdata/quilt-rs) | [Ignore filesystem events from status reads](https://github.com/quiltdata/quilt-rs/pull/886) · [Publish Windows x86_64 quilt-cli binaries](https://github.com/quiltdata/quilt-rs/pull/859) |
-| [Sequelize](https://github.com/sequelize/sequelize) | [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) |
+| [Sequelize](https://github.com/sequelize/sequelize) | [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) · [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) |
 | [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) · [Create complete field meta for uninitialized fields](https://github.com/TanStack/form/pull/2245) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Fix relation-name collision with inherited keys](https://github.com/drizzle-team/drizzle-orm/pull/6086) · [Preserve Unicode identifiers in casing helpers](https://github.com/drizzle-team/drizzle-orm/pull/6087) · [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
 | [fast-check](https://github.com/dubzzz/fast-check) | [Allow sync beforeEach hooks for async properties](https://github.com/dubzzz/fast-check/pull/7191) |
@@ -101,7 +103,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 8 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 9 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
