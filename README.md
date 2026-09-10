@@ -52,7 +52,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | :-- | :-- |
 | [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
-| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Serialize concurrent Python client startup](https://github.com/github/copilot-sdk/pull/2570) |
+| [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Serialize concurrent Python client startup](https://github.com/github/copilot-sdk/pull/2570) · [Check protocol version drift across all SDKs](https://github.com/github/copilot-sdk/pull/2568) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Stop terminal interception of Messages 2FA/OTP codes](https://github.com/manaflow-ai/cmux/pull/7973) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
 | [cc-switch](https://github.com/yang227/cc-switch) | [Fix DeepSeek Harness review issues](https://github.com/yang227/cc-switch/pull/1) |
@@ -68,10 +68,9 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [Unplug](https://github.com/UnplugAI/Unplug) | [Align security claims with implementation](https://github.com/UnplugAI/Unplug/pull/178) |
 | [n8n AI Agent Security Lab](https://github.com/0xCD4/n8n-ai-agent-security-lab) | [Add a broad AI HTTP tool fixture](https://github.com/0xCD4/n8n-ai-agent-security-lab/pull/6) |
 | [Joi](https://github.com/hapijs/joi) | [Ignore internal references when ordering object keys](https://github.com/hapijs/joi/pull/3129) |
-| [memfs](https://github.com/streamich/memfs) | [Resolve relative streams from virtual cwd](https://github.com/streamich/memfs/pull/1271) · [Match Node directory iteration lifecycle](https://github.com/streamich/memfs/pull/1284) |
+| [memfs](https://github.com/streamich/memfs) | [Resolve relative streams from virtual cwd](https://github.com/streamich/memfs/pull/1271) · [Close the original descriptor after stream release](https://github.com/streamich/memfs/pull/1286) · [Align runtime dependencies with published entry points](https://github.com/streamich/memfs/pull/1287) |
 | [Beanie](https://github.com/BeanieODM/beanie) | [Preserve custom document IDs in inspection errors](https://github.com/BeanieODM/beanie/pull/1371) |
 | [Vite](https://github.com/vitejs/vite) | [Skip glob transforms when only the query string varies](https://github.com/vitejs/vite/pull/22938) |
 | [MLflow](https://github.com/mlflow/mlflow) | [Add GitHub Copilot SDK tracing integration](https://github.com/mlflow/mlflow/pull/25426) |
@@ -92,7 +91,9 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [superstruct](https://github.com/ianstormtaylor/superstruct) | [Preserve input coercion when merging structs](https://github.com/ianstormtaylor/superstruct/pull/1300) |
 | [browser-use](https://github.com/browser-use/browser-use) | [Return errors for stale click and dropdown actions](https://github.com/browser-use/browser-use/pull/5455) |
 | [Kimi Code](https://github.com/MoonshotAI/kimi-code) | [Restore the VS Code todo-list card](https://github.com/MoonshotAI/kimi-code/pull/3367) · [Fix code-workspace path escape errors](https://github.com/MoonshotAI/kimi-code/pull/2283) · [Sanitize download filenames](https://github.com/MoonshotAI/kimi-code/pull/2286) · [Parse byte ranges strictly](https://github.com/MoonshotAI/kimi-code/pull/2289) |
-| [Quilt](https://github.com/quiltdata/quilt-rs) | [Ignore filesystem events from status reads](https://github.com/quiltdata/quilt-rs/pull/886) · [Publish Windows x86_64 quilt-cli binaries](https://github.com/quiltdata/quilt-rs/pull/859) |
+| [Quilt](https://github.com/quiltdata/quilt-rs) | [Publish Windows x86_64 quilt-cli binaries](https://github.com/quiltdata/quilt-rs/pull/859) |
+| [afero](https://github.com/spf13/afero) | [Honor access mode in MemMapFs.OpenFile permission checks](https://github.com/spf13/afero/pull/655) · [Check source existence before a no-op MemMapFs rename](https://github.com/spf13/afero/pull/656) |
+| [Hono](https://github.com/honojs/hono) | [Preserve repeated form fields in method override](https://github.com/honojs/hono/pull/5354) · [Preserve commas within quoted entity tags](https://github.com/honojs/hono/pull/5353) |
 | [Sequelize](https://github.com/sequelize/sequelize) | [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) · [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) |
 | [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) · [Create complete field meta for uninitialized fields](https://github.com/TanStack/form/pull/2245) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Fix relation-name collision with inherited keys](https://github.com/drizzle-team/drizzle-orm/pull/6086) · [Preserve Unicode identifiers in casing helpers](https://github.com/drizzle-team/drizzle-orm/pull/6087) · [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
@@ -103,14 +104,15 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 9 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 10 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
 | [claude-mem](https://github.com/vega0707/claude-mem) | [Fix transcript watcher durable offset commits](https://github.com/vega0707/claude-mem/pull/1) |
-| [Quilt](https://github.com/quiltdata/quilt-rs) | [Share S3 clients across cloned remote handles](https://github.com/quiltdata/quilt-rs/pull/884) · [Flush the log tail before Tauri exits](https://github.com/quiltdata/quilt-rs/pull/883) · [Infer namespace from the working directory](https://github.com/quiltdata/quilt-rs/pull/850) · [Default home directory on first use](https://github.com/quiltdata/quilt-rs/pull/848) · [Keep tracing logs off stdout by default](https://github.com/quiltdata/quilt-rs/pull/847) · [Add `quilt log`, listing copy revisions](https://github.com/quiltdata/quilt-rs/pull/849) · [Add reset command for local-only packages](https://github.com/quiltdata/quilt-rs/pull/860) · [Treat rejected credentials as dead sessions](https://github.com/quiltdata/quilt-rs/pull/861) · [Add `--json` output and non-zero failures](https://github.com/quiltdata/quilt-rs/pull/851) · [Run fork pull requests with credential-free CI](https://github.com/quiltdata/quilt-rs/pull/858) |
+| [Unplug](https://github.com/UnplugAI/Unplug) | [Align security claims with implementation](https://github.com/UnplugAI/Unplug/pull/178) |
+| [Quilt](https://github.com/quiltdata/quilt-rs) | [Stop the status walk from waking the watcher that triggered it](https://github.com/quiltdata/quilt-rs/pull/886) · [Share S3 clients across cloned remote handles](https://github.com/quiltdata/quilt-rs/pull/884) · [Flush the log tail before Tauri exits](https://github.com/quiltdata/quilt-rs/pull/883) · [Infer namespace from the working directory](https://github.com/quiltdata/quilt-rs/pull/850) · [Default home directory on first use](https://github.com/quiltdata/quilt-rs/pull/848) · [Keep tracing logs off stdout by default](https://github.com/quiltdata/quilt-rs/pull/847) · [Add `quilt log`, listing copy revisions](https://github.com/quiltdata/quilt-rs/pull/849) · [Add reset command for local-only packages](https://github.com/quiltdata/quilt-rs/pull/860) · [Treat rejected credentials as dead sessions](https://github.com/quiltdata/quilt-rs/pull/861) · [Add `--json` output and non-zero failures](https://github.com/quiltdata/quilt-rs/pull/851) · [Run fork pull requests with credential-free CI](https://github.com/quiltdata/quilt-rs/pull/858) |
 | [Okto Nexus](https://github.com/OktoLabsAI/okto-nexus) | [Restore and document the live MCP smoke test](https://github.com/OktoLabsAI/okto-nexus/pull/20) |
 | [Anomalithic](https://github.com/zanni098/Anomalithic) | [Preserve stream finish reasons](https://github.com/zanni098/Anomalithic/pull/38) |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | [Report compression API failures distinctly](https://github.com/QwenLM/qwen-code/pull/9119) · [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) |
@@ -163,7 +165,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Calico](https://github.com/projectcalico/calico) | [Sanitize chart-version labels](https://github.com/projectcalico/calico/pull/13412) |
 | [Kaneo](https://github.com/usekaneo/kaneo) | [Avoid per-task kanban metadata requests](https://github.com/usekaneo/kaneo/pull/1475) |
 | [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Clarify working-directory defaults across SDKs](https://github.com/github/copilot-sdk/pull/2201) |
-| [memfs](https://github.com/streamich/memfs) | [Embed sources in published sourcemaps](https://github.com/streamich/memfs/pull/1275) · [Remove `tslib` from peer dependencies](https://github.com/streamich/memfs/pull/1269) |
+| [memfs](https://github.com/streamich/memfs) | [Match Node directory iteration lifecycle](https://github.com/streamich/memfs/pull/1284) · [Finish BYOB file stream reads at EOF](https://github.com/streamich/memfs/pull/1285) · [Embed sources in published sourcemaps](https://github.com/streamich/memfs/pull/1275) · [Remove `tslib` from peer dependencies](https://github.com/streamich/memfs/pull/1269) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Faster startup through overlapping sidebar and worktree loading](https://github.com/stablyai/orca/pull/7306) · [Correct CJK IME behavior when renaming commits](https://github.com/stablyai/orca/pull/7081) |
 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | [Improved the Add Nodes interaction](https://github.com/FlowiseAI/Flowise/pull/162) |
 | [apitable/apitable](https://github.com/apitable/apitable) | [Improved Simplified Chinese localization](https://github.com/apitable/apitable/pull/367) |
