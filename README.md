@@ -92,9 +92,11 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Quilt](https://github.com/quiltdata/quilt-rs) | [Publish Windows x86_64 quilt-cli binaries](https://github.com/quiltdata/quilt-rs/pull/859) |
 | [afero](https://github.com/spf13/afero) | [Honor access mode in MemMapFs.OpenFile permission checks](https://github.com/spf13/afero/pull/655) · [Check source existence before a no-op MemMapFs rename](https://github.com/spf13/afero/pull/656) |
 | [Hono](https://github.com/honojs/hono) | [Preserve repeated form fields in method override](https://github.com/honojs/hono/pull/5354) · [Preserve commas within quoted entity tags](https://github.com/honojs/hono/pull/5353) |
+| [Handlebars](https://github.com/handlebars-lang/handlebars.js) | [Retain helpers for precompiled partial runtimes](https://github.com/handlebars-lang/handlebars.js/pull/2174) |
 | [node-fs-extra](https://github.com/jprichardson/node-fs-extra) | [Propagate emptyDir directory read errors](https://github.com/jprichardson/node-fs-extra/pull/1080) |
 | [superjson](https://github.com/ravionhq/superjson) | [Document binary data support](https://github.com/ravionhq/superjson/pull/359) |
 | [async](https://github.com/caolan/async) | [Propagate async iterator errors from tryEach](https://github.com/caolan/async/pull/2083) · [Clear timeout before invoking the callback](https://github.com/caolan/async/pull/2082) |
+| [deep-eql](https://github.com/chaijs/deep-eql) | [Compare URLSearchParams by their query strings](https://github.com/chaijs/deep-eql/pull/115) |
 | [Chai](https://github.com/chaijs/chai) | [Preserve literal template tags in assertion values](https://github.com/chaijs/chai/pull/1853) |
 | [Sequelize](https://github.com/sequelize/sequelize) | [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) · [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) |
 | [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) · [Create complete field meta for uninitialized fields](https://github.com/TanStack/form/pull/2245) |
@@ -106,7 +108,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 11 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 12 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
@@ -125,11 +127,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [reticle](https://github.com/reticlehq/reticle) | [Harden MCP proxy POST transport against socket exhaustion](https://github.com/reticlehq/reticle/pull/631) |
 | [sysknife](https://github.com/lacs-project/sysknife) | [Keep provider keys out of VM process arguments](https://github.com/lacs-project/sysknife/pull/316) |
 | [ship-safe](https://github.com/asamassekou10/ship-safe) | [Detect unpinned AI actions](https://github.com/asamassekou10/ship-safe/pull/175) |
-| [OpenAgent Eval](https://github.com/OpenAgentHQ/openagent-eval) | [Add a zero-key quickstart](https://github.com/OpenAgentHQ/openagent-eval/pull/365) |
+| [OpenAgent Eval](https://github.com/OpenAgentHQ/openagent-eval) | [Add offline testing workflow](https://github.com/OpenAgentHQ/openagent-eval/pull/361) · [Add a zero-key quickstart](https://github.com/OpenAgentHQ/openagent-eval/pull/365) |
+| [py-harness](https://github.com/YauhenBichel/py-harness) | [Clarify cross-platform first run](https://github.com/YauhenBichel/py-harness/pull/58) |
+| [EvalRepro](https://github.com/seva9523/EvalRepro) | [Add Windows development setup commands](https://github.com/seva9523/EvalRepro/pull/37) |
 | [Agent of Empires](https://github.com/agent-of-empires/agent-of-empires) | [Preserve UTF-8 names when stopping sessions](https://github.com/agent-of-empires/agent-of-empires/pull/3584) |
 | [homelab-monitor](https://github.com/SikamikanikoBG/homelab-monitor) | [Centralize Python dependency management](https://github.com/SikamikanikoBG/homelab-monitor/pull/291) |
-| [NimbleBrain](https://github.com/NimbleBrainInc/nimblebrain) | [Keep the worktree seed schema-valid](https://github.com/NimbleBrainInc/nimblebrain/pull/1065) |
-| [hflow](https://github.com/Hebbian-Robotics/hflow) | [Make judgment outcomes exclusive](https://github.com/Hebbian-Robotics/hflow/pull/327) |
+| [NimbleBrain](https://github.com/NimbleBrainInc/nimblebrain) | [Extend LLM latency histogram tail](https://github.com/NimbleBrainInc/nimblebrain/pull/1056) · [Keep the worktree seed schema-valid](https://github.com/NimbleBrainInc/nimblebrain/pull/1065) |
+| [hflow](https://github.com/Hebbian-Robotics/hflow) | [Constrain hand-count evaluation schema](https://github.com/Hebbian-Robotics/hflow/pull/258) · [Make judgment outcomes exclusive](https://github.com/Hebbian-Robotics/hflow/pull/327) |
 | [localvectordb](https://github.com/thomas-villani/localvectordb) | [Reject MCP database lifecycle no-ops](https://github.com/thomas-villani/localvectordb/pull/80) |
 | [molecare-skin-llm](https://github.com/MoleCare/molecare-skin-llm) | [Make local checkout paths portable](https://github.com/MoleCare/molecare-skin-llm/pull/23) |
 | [Context Passport Python](https://github.com/contextpassport/python) | [Validate passport event types against the v2 schema](https://github.com/contextpassport/python/pull/14) |
