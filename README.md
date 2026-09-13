@@ -36,7 +36,6 @@ Inkling is an AI mind-mapping canvas. Muse reads your PDFs and draws editable ma
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
 | **[MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI)** ![GitHub stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=flat&label=★&color=334155) | A self-hostable AI agent that reads PDFs and draws editable mind maps with visible tool calls, built-in RAG, multi-provider support, and bring-your-own-key privacy. The open-source predecessor to Inkling. | `React` `Hono` `Vercel AI SDK` `RAG` |
-| **[flutter-motion-kit](https://github.com/xianjianlf2/flutter-motion-kit)** · [Live ↗](https://motion.markxian.cn/?ref=github-profile) | Previewable Flutter animations with traceable pitfalls, real running web demos, an interactive parameter playground, and remote MCP reuse. | `Astro` `Flutter` `MCP` |
 | **[gpt-image-2-tools](https://github.com/xianjianlf2/gpt-image-2-tools)** · [Live ↗](https://image.markxian.cn/?ref=github-profile) | A free, privacy-first, multi-provider image playground for text-to-image, image-to-image, inpainting, and voice control. Your key stays in the browser. | `Astro` `React` `BYOK` |
 | **[apidoc2MCP](https://github.com/xianjianlf2/apidoc2MCP)** | Parses OpenAPI, Swagger, Markdown, and HTML API docs, then generates MCP service definitions that AI tools can call directly. | `Python` `TypeScript` `MCP` |
 
@@ -54,6 +53,8 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
+| [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
+| [p-event](https://github.com/sindresorhus/p-event) | [Reject pending iterator reads when resolution filters fail](https://github.com/sindresorhus/p-event/pull/56) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Move the relay CLI bin dir to the front of PATH](https://github.com/stablyai/orca/pull/8710) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) · [Report multiplex slot diagnostics](https://github.com/stablyai/orca/pull/11288) · [Render `<br>` in markdown table cells as line breaks](https://github.com/stablyai/orca/pull/8995) |
 | [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
 | [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
@@ -108,12 +109,16 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 12 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 13 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [p-throttle](https://github.com/sindresorhus/p-throttle) | [Respect future weighted throttle reservations](https://github.com/sindresorhus/p-throttle/pull/65) |
+| [p-timeout](https://github.com/sindresorhus/p-timeout) | [Handle input rejections when already aborted](https://github.com/sindresorhus/p-timeout/pull/46) |
+| [p-debounce](https://github.com/sindresorhus/p-debounce) | [Preserve falsy promise rejection reasons](https://github.com/sindresorhus/p-debounce/pull/33) |
+| [niuu](https://github.com/niuulabs/niuu) | [Fix Prettier drift](https://github.com/niuulabs/niuu/pull/940) |
 | [claude-mem](https://github.com/vega0707/claude-mem) | [Fix transcript watcher durable offset commits](https://github.com/vega0707/claude-mem/pull/1) |
 | [Unplug](https://github.com/UnplugAI/Unplug) | [Align security claims with implementation](https://github.com/UnplugAI/Unplug/pull/178) |
 | [cc-switch](https://github.com/yang227/cc-switch) | [Fix DeepSeek Harness review issues](https://github.com/yang227/cc-switch/pull/1) |
