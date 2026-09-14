@@ -53,6 +53,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
+| [chroma.js](https://github.com/gka/chroma.js) | [Name rgb2hsv converter correctly](https://github.com/gka/chroma.js/pull/398) |
 | [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
 | [p-event](https://github.com/sindresorhus/p-event) | [Reject pending iterator reads when resolution filters fail](https://github.com/sindresorhus/p-event/pull/56) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Move the relay CLI bin dir to the front of PATH](https://github.com/stablyai/orca/pull/8710) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) · [Report multiplex slot diagnostics](https://github.com/stablyai/orca/pull/11288) · [Render `<br>` in markdown table cells as line breaks](https://github.com/stablyai/orca/pull/8995) |
@@ -109,7 +110,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 13 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 14 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
