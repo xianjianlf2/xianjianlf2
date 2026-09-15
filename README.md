@@ -43,7 +43,7 @@ Inkling is an AI mind-mapping canvas. Muse reads your PDFs and draws editable ma
 
 ## Open-source activity
 
-I work upstream in the active projects I use—especially agent runtimes, developer tools, and infrastructure. [Browse the live list of open pull requests →](https://github.com/search?q=author%3Axianjianlf2+is%3Apr+is%3Aopen&type=pullrequests)
+I work upstream in the active projects I use—especially agent runtimes, developer tools, and infrastructure. The visible rows surface current, high-signal work; expandable lists keep the longer activity trail. [Browse the live list of open pull requests →](https://github.com/search?q=author%3Axianjianlf2+is%3Apr+is%3Aopen&type=pullrequests)
 
 ### In flight
 
@@ -133,6 +133,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Anomalithic](https://github.com/zanni098/Anomalithic) | [Preserve stream finish reasons](https://github.com/zanni098/Anomalithic/pull/38) |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | [Report compression API failures distinctly](https://github.com/QwenLM/qwen-code/pull/9119) · [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) |
 | [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Serialize concurrent Python and Node.js client startup](https://github.com/github/copilot-sdk/pull/2570) · [Isolate GitHub token callbacks from request routing](https://github.com/github/copilot-sdk/pull/2567) · [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) |
+
+<details>
+<summary><b>More merged work</b></summary>
+<br />
+
+| Project | Merged contribution |
+| :-- | :-- |
 | [ARGUS](https://github.com/ArgusLabs-ai/ARGUS) | [Remove unreachable LLM modules](https://github.com/ArgusLabs-ai/ARGUS/pull/48) · [Grade and report the exact check run](https://github.com/ArgusLabs-ai/ARGUS/pull/64) |
 | [streamcore-server](https://github.com/streamcoreai/streamcore-server) | [Make the OpenAI transcription model configurable](https://github.com/streamcoreai/streamcore-server/pull/72) |
 | [reticle](https://github.com/reticlehq/reticle) | [Harden MCP proxy POST transport against socket exhaustion](https://github.com/reticlehq/reticle/pull/631) |
@@ -163,12 +170,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [VidBee](https://github.com/nexmoe/VidBee) | [Keep external download path in portable mode](https://github.com/nexmoe/VidBee/pull/434) |
 | [Calico](https://github.com/projectcalico/calico) | [Expose server write timeout configuration](https://github.com/projectcalico/calico/pull/13411) · [Re-advertise service external IPs from route reflectors](https://github.com/projectcalico/calico/pull/13413) |
 
-<details>
-<summary><b>More recent and earlier merged work</b></summary>
-<br />
-
-| Project | Merged contribution |
-| :-- | :-- |
 | [Firewood](https://github.com/ava-labs/firewood) | [Escape JSON strings in `fwdctl` dumps](https://github.com/ava-labs/firewood/pull/2177) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Open symlink files when stat fails](https://github.com/stablyai/orca/pull/11670) |
 | [Dashi Taskboard](https://github.com/chuspeeism/dashi-taskboard) | [Improve dark-mode select contrast](https://github.com/chuspeeism/dashi-taskboard/pull/2) |
