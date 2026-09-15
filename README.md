@@ -43,23 +43,17 @@ Inkling is an AI mind-mapping canvas. Muse reads your PDFs and draws editable ma
 
 ## Open-source activity
 
-I work upstream in the active projects I use—especially agent runtimes, developer tools, and infrastructure. The visible rows surface current, high-signal work; expandable lists keep the longer activity trail. [Browse the live list of open pull requests →](https://github.com/search?q=author%3Axianjianlf2+is%3Apr+is%3Aopen&type=pullrequests)
+I work upstream in the active projects I use—especially agent runtimes, developer tools, and infrastructure. The visible rows surface a small set of high-signal work; expandable lists keep the longer activity trail. [Browse the live list of open pull requests →](https://github.com/search?q=author%3Axianjianlf2+is%3Apr+is%3Aopen&type=pullrequests)
 
 ### In flight
 
 | Project | Current contribution |
 | :-- | :-- |
 | [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
-| [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
-| [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
-| [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
 | [type-fest](https://github.com/sindresorhus/type-fest) | [Add `UnionMax` type](https://github.com/sindresorhus/type-fest/pull/1519) |
 | [GitHub Spec Kit](https://github.com/github/spec-kit) | [Warn when feature names have an empty suffix](https://github.com/github/spec-kit/pull/4575) |
 | [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Move the relay CLI bin dir to the front of PATH](https://github.com/stablyai/orca/pull/8710) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) · [Report multiplex slot diagnostics](https://github.com/stablyai/orca/pull/11288) · [Render `<br>` in markdown table cells as line breaks](https://github.com/stablyai/orca/pull/8995) |
-| [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
-| [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
-| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
 
 <details>
@@ -68,6 +62,12 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
+| [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
+| [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
+| [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
+| [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
+| [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
+| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [n8n AI Agent Security Lab](https://github.com/0xCD4/n8n-ai-agent-security-lab) | [Add a broad AI HTTP tool fixture](https://github.com/0xCD4/n8n-ai-agent-security-lab/pull/6) |
 | [context-mode](https://github.com/mksglu/context-mode) | [Evict least-important events first](https://github.com/mksglu/context-mode/pull/1158) |
 | [mathjs](https://github.com/josdejong/mathjs) | [Round zeta BigNumber digit count](https://github.com/josdejong/mathjs/pull/3683) |
@@ -125,6 +125,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [p-timeout](https://github.com/sindresorhus/p-timeout) | [Handle input rejections when already aborted](https://github.com/sindresorhus/p-timeout/pull/46) |
 | [p-debounce](https://github.com/sindresorhus/p-debounce) | [Preserve falsy promise rejection reasons](https://github.com/sindresorhus/p-debounce/pull/33) |
 | [niuu](https://github.com/niuulabs/niuu) | [Fix Prettier drift](https://github.com/niuulabs/niuu/pull/940) |
+
+<details>
+<summary><b>More merged work</b></summary>
+<br />
+
+| Project | Merged contribution |
+| :-- | :-- |
 | [claude-mem](https://github.com/vega0707/claude-mem) | [Fix transcript watcher durable offset commits](https://github.com/vega0707/claude-mem/pull/1) |
 | [Unplug](https://github.com/UnplugAI/Unplug) | [Align security claims with implementation](https://github.com/UnplugAI/Unplug/pull/178) |
 | [cc-switch](https://github.com/yang227/cc-switch) | [Fix DeepSeek Harness review issues](https://github.com/yang227/cc-switch/pull/1) |
@@ -133,13 +140,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Anomalithic](https://github.com/zanni098/Anomalithic) | [Preserve stream finish reasons](https://github.com/zanni098/Anomalithic/pull/38) |
 | [Qwen Code](https://github.com/QwenLM/qwen-code) | [Report compression API failures distinctly](https://github.com/QwenLM/qwen-code/pull/9119) · [Scope startup warnings to development sessions](https://github.com/QwenLM/qwen-code/pull/8456) |
 | [GitHub Copilot SDK](https://github.com/github/copilot-sdk) | [Serialize concurrent Python and Node.js client startup](https://github.com/github/copilot-sdk/pull/2570) · [Isolate GitHub token callbacks from request routing](https://github.com/github/copilot-sdk/pull/2567) · [Support bracketed IPv6 runtime URLs](https://github.com/github/copilot-sdk/pull/2200) |
-
-<details>
-<summary><b>More merged work</b></summary>
-<br />
-
-| Project | Merged contribution |
-| :-- | :-- |
 | [ARGUS](https://github.com/ArgusLabs-ai/ARGUS) | [Remove unreachable LLM modules](https://github.com/ArgusLabs-ai/ARGUS/pull/48) · [Grade and report the exact check run](https://github.com/ArgusLabs-ai/ARGUS/pull/64) |
 | [streamcore-server](https://github.com/streamcoreai/streamcore-server) | [Make the OpenAI transcription model configurable](https://github.com/streamcoreai/streamcore-server/pull/72) |
 | [reticle](https://github.com/reticlehq/reticle) | [Harden MCP proxy POST transport against socket exhaustion](https://github.com/reticlehq/reticle/pull/631) |
