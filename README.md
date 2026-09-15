@@ -53,9 +53,9 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
-| [chroma.js](https://github.com/gka/chroma.js) | [Name rgb2hsv converter correctly](https://github.com/gka/chroma.js/pull/398) |
+| [type-fest](https://github.com/sindresorhus/type-fest) | [Add `UnionMax` type](https://github.com/sindresorhus/type-fest/pull/1519) |
+| [GitHub Spec Kit](https://github.com/github/spec-kit) | [Warn when feature names have an empty suffix](https://github.com/github/spec-kit/pull/4575) |
 | [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
-| [p-event](https://github.com/sindresorhus/p-event) | [Reject pending iterator reads when resolution filters fail](https://github.com/sindresorhus/p-event/pull/56) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Move the relay CLI bin dir to the front of PATH](https://github.com/stablyai/orca/pull/8710) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) · [Report multiplex slot diagnostics](https://github.com/stablyai/orca/pull/11288) · [Render `<br>` in markdown table cells as line breaks](https://github.com/stablyai/orca/pull/8995) |
 | [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
 | [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
@@ -69,6 +69,8 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | Project | Current contribution |
 | :-- | :-- |
 | [n8n AI Agent Security Lab](https://github.com/0xCD4/n8n-ai-agent-security-lab) | [Add a broad AI HTTP tool fixture](https://github.com/0xCD4/n8n-ai-agent-security-lab/pull/6) |
+| [context-mode](https://github.com/mksglu/context-mode) | [Evict least-important events first](https://github.com/mksglu/context-mode/pull/1158) |
+| [mathjs](https://github.com/josdejong/mathjs) | [Round zeta BigNumber digit count](https://github.com/josdejong/mathjs/pull/3683) |
 | [Joi](https://github.com/hapijs/joi) | [Ignore internal references when ordering object keys](https://github.com/hapijs/joi/pull/3129) |
 | [memfs](https://github.com/streamich/memfs) | [Close the original descriptor after stream release](https://github.com/streamich/memfs/pull/1286) · [Align runtime dependencies with published entry points](https://github.com/streamich/memfs/pull/1287) |
 | [Beanie](https://github.com/BeanieODM/beanie) | [Preserve custom document IDs in inspection errors](https://github.com/BeanieODM/beanie/pull/1371) |
@@ -99,7 +101,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [superjson](https://github.com/ravionhq/superjson) | [Document binary data support](https://github.com/ravionhq/superjson/pull/359) |
 | [async](https://github.com/caolan/async) | [Propagate async iterator errors from tryEach](https://github.com/caolan/async/pull/2083) · [Clear timeout before invoking the callback](https://github.com/caolan/async/pull/2082) |
 | [deep-eql](https://github.com/chaijs/deep-eql) | [Compare URLSearchParams by their query strings](https://github.com/chaijs/deep-eql/pull/115) |
-| [Chai](https://github.com/chaijs/chai) | [Preserve literal template tags in assertion values](https://github.com/chaijs/chai/pull/1853) |
 | [Sequelize](https://github.com/sequelize/sequelize) | [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) · [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) |
 | [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) · [Create complete field meta for uninitialized fields](https://github.com/TanStack/form/pull/2245) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Fix relation-name collision with inherited keys](https://github.com/drizzle-team/drizzle-orm/pull/6086) · [Preserve Unicode identifiers in casing helpers](https://github.com/drizzle-team/drizzle-orm/pull/6087) · [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
@@ -110,12 +111,16 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 14 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 15 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | [Keep library entries when GamesDB is unavailable](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/pull/5798) |
+| [chroma.js](https://github.com/gka/chroma.js) | [Keep alpha when constructing from an object](https://github.com/gka/chroma.js/pull/396) · [Name rgb2hsv converter correctly](https://github.com/gka/chroma.js/pull/398) · [Reject non-numeric channels](https://github.com/gka/chroma.js/pull/399) · [Update automatic classes when the domain changes](https://github.com/gka/chroma.js/pull/402) · [Clarify Lab and Lch round trips](https://github.com/gka/chroma.js/pull/400) |
+| [p-event](https://github.com/sindresorhus/p-event) | [Reject pending iterator reads when resolution filters fail](https://github.com/sindresorhus/p-event/pull/56) |
+| [Chai](https://github.com/chaijs/chai) | [Preserve literal template tags in assertion values](https://github.com/chaijs/chai/pull/1853) |
 | [p-throttle](https://github.com/sindresorhus/p-throttle) | [Respect future weighted throttle reservations](https://github.com/sindresorhus/p-throttle/pull/65) |
 | [p-timeout](https://github.com/sindresorhus/p-timeout) | [Handle input rejections when already aborted](https://github.com/sindresorhus/p-timeout/pull/46) |
 | [p-debounce](https://github.com/sindresorhus/p-debounce) | [Preserve falsy promise rejection reasons](https://github.com/sindresorhus/p-debounce/pull/33) |
