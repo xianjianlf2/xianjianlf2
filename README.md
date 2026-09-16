@@ -31,11 +31,28 @@ Inkling is an AI mind-mapping canvas. Muse reads your PDFs and draws editable ma
 
 ## Selected work
 
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| **[MindGeniusAI](https://github.com/xianjianlf2/MindGeniusAI)** ![GitHub stars](https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=flat&label=★&color=334155) | A self-hostable AI agent that reads PDFs and draws editable mind maps with visible tool calls, built-in RAG, multi-provider support, and bring-your-own-key privacy. The open-source predecessor to Inkling. | `React` `Hono` `Vercel AI SDK` `RAG` |
-| **[gpt-image-2-tools](https://github.com/xianjianlf2/gpt-image-2-tools)** · [Live ↗](https://image.markxian.cn/?ref=github-profile) | A free, privacy-first, multi-provider image playground for text-to-image, image-to-image, inpainting, and voice control. Your key stays in the browser. | `Astro` `React` `BYOK` |
-| **[apidoc2MCP](https://github.com/xianjianlf2/apidoc2MCP)** | Parses OpenAPI, Swagger, Markdown, and HTML API docs, then generates MCP service definitions that AI tools can call directly. | `Python` `TypeScript` `MCP` |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🧠 <a href="https://github.com/xianjianlf2/MindGeniusAI">MindGeniusAI</a></h3>
+      <p>Self-hostable AI agent that turns PDFs into editable mind maps with visible tool calls and built-in RAG.</p>
+      <p><code>React</code> <code>Hono</code> <code>Vercel AI SDK</code></p>
+      <p><a href="https://github.com/xianjianlf2/MindGeniusAI"><img src="https://img.shields.io/github/stars/xianjianlf2/MindGeniusAI?style=flat&label=★&color=334155" alt="MindGeniusAI GitHub stars" /></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎨 <a href="https://github.com/xianjianlf2/gpt-image-2-tools">gpt-image-2-tools</a></h3>
+      <p>Client-side, BYOK image playground for generation, editing, inpainting, and voice control.</p>
+      <p><code>Astro</code> <code>React</code> <code>BYOK</code></p>
+      <p><a href="https://github.com/xianjianlf2/gpt-image-2-tools">Repository ↗</a> · <a href="https://image.markxian.cn/?ref=github-profile">Live ↗</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔌 <a href="https://github.com/xianjianlf2/apidoc2MCP">apidoc2MCP</a></h3>
+      <p>Turns OpenAPI, Swagger, Markdown, and HTML docs into MCP service definitions.</p>
+      <p><code>Python</code> <code>TypeScript</code> <code>MCP</code></p>
+      <p><a href="https://github.com/xianjianlf2/apidoc2MCP">Repository ↗</a></p>
+    </td>
+  </tr>
+</table>
 
 <sub>Earlier work: [`vue3-pdf-viewer`](https://github.com/xianjianlf2/vue3-pdf-viewer) / [`@xianjianlf2/vue-pdf-viewer`](https://www.npmjs.com/package/@xianjianlf2/vue-pdf-viewer), an archived PDF.js viewer for Vue 3.</sub>
 
