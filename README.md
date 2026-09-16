@@ -7,15 +7,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-markxian.cn-0F172A?style=for-the-badge&logo=safari&logoColor=white)](https://markxian.cn/?ref=github-profile)
 [![Inkling](https://img.shields.io/badge/Join-Inkling-4F46E5?style=for-the-badge)](https://inkling.markxian.cn/?ref=github-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xianjianlf2)
-[![Open Source](https://img.shields.io/badge/Open_Source-Activity-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/search?q=author%3Axianjianlf2+is%3Apr&type=pullrequests)
+[![Open Source](https://img.shields.io/badge/Open_Source-Activity-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/search?q=author%3Axianjianlf2+is%3Apr+is%3Aopen&type=pullrequests)
 
 </div>
 
 ## About
 
-I'm an AI product engineer based in Guangdong, China. I make AI feel useful—from agentic interfaces and document intelligence to privacy-first developer tools.
-
-My best work sits where **product taste**, **interaction design**, and **engineering depth** meet: reduce ambiguity, make the interface feel inevitable, and ship the details that make a product hold together.
+I'm an AI product engineer in Guangdong, China, building agentic canvases, document intelligence, and developer tools. I work where **product taste**, **interaction design**, and **engineering depth** meet—reducing ambiguity and shipping the details that make a product hold together.
 
 > **Make AI feel useful.**
 >
@@ -49,12 +47,12 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
-| [type-fest](https://github.com/sindresorhus/type-fest) | [Add `UnionMax` type](https://github.com/sindresorhus/type-fest/pull/1519) |
+| [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
+| [Sequelize](https://github.com/sequelize/sequelize) | [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) · [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) |
 | [GitHub Spec Kit](https://github.com/github/spec-kit) | [Warn when feature names have an empty suffix](https://github.com/github/spec-kit/pull/4575) |
-| [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
-| [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Move the relay CLI bin dir to the front of PATH](https://github.com/stablyai/orca/pull/8710) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) · [Report multiplex slot diagnostics](https://github.com/stablyai/orca/pull/11288) · [Render `<br>` in markdown table cells as line breaks](https://github.com/stablyai/orca/pull/8995) |
-| [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
+| [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
+| [type-fest](https://github.com/sindresorhus/type-fest) | [Add `UnionMax` type](https://github.com/sindresorhus/type-fest/pull/1519) |
+| [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 
 <details>
 <summary><b>More active upstream work</b></summary>
@@ -62,8 +60,10 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
-| [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
+| [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
+| [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
+| [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Move the relay CLI bin dir to the front of PATH](https://github.com/stablyai/orca/pull/8710) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) · [Report multiplex slot diagnostics](https://github.com/stablyai/orca/pull/11288) · [Render `<br>` in markdown table cells as line breaks](https://github.com/stablyai/orca/pull/8995) |
+| [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
 | [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
 | [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
@@ -78,7 +78,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [MLflow](https://github.com/mlflow/mlflow) | [Add GitHub Copilot SDK tracing integration](https://github.com/mlflow/mlflow/pull/25426) |
 | [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) | [Decode URI template match values](https://github.com/modelcontextprotocol/typescript-sdk/pull/2732) |
 | [LangChain.js](https://github.com/langchain-ai/langchainjs) | [Support HITL respond decisions](https://github.com/langchain-ai/langchainjs/pull/11498) · [Preserve audio in Responses input](https://github.com/langchain-ai/langchainjs/pull/11493) · [Preserve Perplexity chat completion token usage](https://github.com/langchain-ai/langchainjs/pull/11587) |
-| [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
 | [Anthropic SDK for Python](https://github.com/anthropics/anthropic-sdk-python) | [Wrap mid-stream transport errors](https://github.com/anthropics/anthropic-sdk-python/pull/1920) |
 | [Vercel AI SDK](https://github.com/vercel/ai) | [Add LangChain message-history hydration helpers](https://github.com/vercel/ai/pull/19913) |
 | [LiteLLM](https://github.com/BerriAI/litellm) | [Include annotation page costs](https://github.com/BerriAI/litellm/pull/38621) · [Hold fallback lifecycle frames](https://github.com/BerriAI/litellm/pull/38623) |
@@ -101,7 +100,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [superjson](https://github.com/ravionhq/superjson) | [Document binary data support](https://github.com/ravionhq/superjson/pull/359) |
 | [async](https://github.com/caolan/async) | [Propagate async iterator errors from tryEach](https://github.com/caolan/async/pull/2083) · [Clear timeout before invoking the callback](https://github.com/caolan/async/pull/2082) |
 | [deep-eql](https://github.com/chaijs/deep-eql) | [Compare URLSearchParams by their query strings](https://github.com/chaijs/deep-eql/pull/115) |
-| [Sequelize](https://github.com/sequelize/sequelize) | [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) · [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) |
 | [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) · [Create complete field meta for uninitialized fields](https://github.com/TanStack/form/pull/2245) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Fix relation-name collision with inherited keys](https://github.com/drizzle-team/drizzle-orm/pull/6086) · [Preserve Unicode identifiers in casing helpers](https://github.com/drizzle-team/drizzle-orm/pull/6087) · [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
 | [fast-check](https://github.com/dubzzz/fast-check) | [Allow sync beforeEach hooks for async properties](https://github.com/dubzzz/fast-check/pull/7191) |
@@ -111,7 +109,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 15 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 16 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
