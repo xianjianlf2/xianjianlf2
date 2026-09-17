@@ -64,12 +64,12 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
-| [Sequelize](https://github.com/sequelize/sequelize) | [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) · [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) |
-| [GitHub Spec Kit](https://github.com/github/spec-kit) | [Warn when feature names have an empty suffix](https://github.com/github/spec-kit/pull/4575) |
-| [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
-| [type-fest](https://github.com/sindresorhus/type-fest) | [Add `UnionMax` type](https://github.com/sindresorhus/type-fest/pull/1519) |
-| [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
+| [Mac-Duo](https://github.com/sumimakito/Mac-Duo) | [Add opt-in external displays that follow the MacBook lid](https://github.com/sumimakito/Mac-Duo/pull/39) |
+| [filetype.py](https://github.com/h2non/filetype.py) | [Use registered font media types](https://github.com/h2non/filetype.py/pull/206) |
+| [pydash](https://github.com/dgilland/pydash) | [Support iterator inputs in intersection helpers](https://github.com/dgilland/pydash/pull/264) |
+| [zerolog](https://github.com/rs/zerolog) | [Write CEE syslog messages as a single record](https://github.com/rs/zerolog/pull/801) |
+| [picomatch](https://github.com/micromatch/picomatch) | [Treat unmatched double quotes as literal path characters](https://github.com/micromatch/picomatch/pull/211) |
+| [neoformat](https://github.com/sbdchd/neoformat) | [Find local Node formatters from the buffer directory](https://github.com/sbdchd/neoformat/pull/516) |
 
 <details>
 <summary><b>More active upstream work</b></summary>
@@ -77,6 +77,11 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
+| [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
+| [Sequelize](https://github.com/sequelize/sequelize) | [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) · [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) |
+| [GitHub Spec Kit](https://github.com/github/spec-kit) | [Warn when feature names have an empty suffix](https://github.com/github/spec-kit/pull/4575) |
+| [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
+| [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
 | [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
 | [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Move the relay CLI bin dir to the front of PATH](https://github.com/stablyai/orca/pull/8710) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) · [Report multiplex slot diagnostics](https://github.com/stablyai/orca/pull/11288) · [Render `<br>` in markdown table cells as line breaks](https://github.com/stablyai/orca/pull/8995) |
@@ -99,7 +104,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Vercel AI SDK](https://github.com/vercel/ai) | [Add LangChain message-history hydration helpers](https://github.com/vercel/ai/pull/19913) |
 | [LiteLLM](https://github.com/BerriAI/litellm) | [Include annotation page costs](https://github.com/BerriAI/litellm/pull/38621) · [Hold fallback lifecycle frames](https://github.com/BerriAI/litellm/pull/38623) |
 | [Fastify JWT](https://github.com/fastify/fastify-jwt) | [Honor per-request key overrides](https://github.com/fastify/fastify-jwt/pull/423) |
-| [perm-gate](https://github.com/jbisaccia-9/perm-gate) | [Add an optional live LLM baseline](https://github.com/jbisaccia-9/perm-gate/pull/6) |
 | [MCP Seatbelt](https://github.com/KryptosAI/mcp-seatbelt) | [Add an upstream health endpoint](https://github.com/KryptosAI/mcp-seatbelt/pull/16) |
 | [TanStack Router](https://github.com/TanStack/router) | [Preserve encoded slashes in splat params](https://github.com/TanStack/router/pull/7893) · [Avoid repeated React Navigate rerenders](https://github.com/TanStack/router/pull/8064) · [Respect `wrapInSuspense` in Solid Router](https://github.com/TanStack/router/pull/7898) |
 | [Maestro](https://github.com/mobile-dev-inc/Maestro) | [Reuse hierarchy on lookup failures](https://github.com/mobile-dev-inc/Maestro/pull/3481) |
@@ -126,20 +130,20 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 16 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 17 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [perm-gate](https://github.com/jbisaccia-9/perm-gate) | [Add an optional live LLM baseline](https://github.com/jbisaccia-9/perm-gate/pull/6) |
+| [type-fest](https://github.com/sindresorhus/type-fest) | [Add `UnionMax` type](https://github.com/sindresorhus/type-fest/pull/1519) |
 | [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | [Keep library entries when GamesDB is unavailable](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/pull/5798) |
 | [chroma.js](https://github.com/gka/chroma.js) | [Keep alpha when constructing from an object](https://github.com/gka/chroma.js/pull/396) · [Name rgb2hsv converter correctly](https://github.com/gka/chroma.js/pull/398) · [Reject non-numeric channels](https://github.com/gka/chroma.js/pull/399) · [Update automatic classes when the domain changes](https://github.com/gka/chroma.js/pull/402) · [Clarify Lab and Lch round trips](https://github.com/gka/chroma.js/pull/400) |
 | [p-event](https://github.com/sindresorhus/p-event) | [Reject pending iterator reads when resolution filters fail](https://github.com/sindresorhus/p-event/pull/56) |
 | [Chai](https://github.com/chaijs/chai) | [Preserve literal template tags in assertion values](https://github.com/chaijs/chai/pull/1853) |
 | [p-throttle](https://github.com/sindresorhus/p-throttle) | [Respect future weighted throttle reservations](https://github.com/sindresorhus/p-throttle/pull/65) |
 | [p-timeout](https://github.com/sindresorhus/p-timeout) | [Handle input rejections when already aborted](https://github.com/sindresorhus/p-timeout/pull/46) |
-| [p-debounce](https://github.com/sindresorhus/p-debounce) | [Preserve falsy promise rejection reasons](https://github.com/sindresorhus/p-debounce/pull/33) |
-| [niuu](https://github.com/niuulabs/niuu) | [Fix Prettier drift](https://github.com/niuulabs/niuu/pull/940) |
 
 <details>
 <summary><b>More merged work</b></summary>
@@ -147,6 +151,8 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [p-debounce](https://github.com/sindresorhus/p-debounce) | [Preserve falsy promise rejection reasons](https://github.com/sindresorhus/p-debounce/pull/33) |
+| [niuu](https://github.com/niuulabs/niuu) | [Fix Prettier drift](https://github.com/niuulabs/niuu/pull/940) |
 | [claude-mem](https://github.com/vega0707/claude-mem) | [Fix transcript watcher durable offset commits](https://github.com/vega0707/claude-mem/pull/1) |
 | [Unplug](https://github.com/UnplugAI/Unplug) | [Align security claims with implementation](https://github.com/UnplugAI/Unplug/pull/178) |
 | [cc-switch](https://github.com/yang227/cc-switch) | [Fix DeepSeek Harness review issues](https://github.com/yang227/cc-switch/pull/1) |
