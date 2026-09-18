@@ -79,7 +79,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | :-- | :-- |
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
 | [Sequelize](https://github.com/sequelize/sequelize) | [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) · [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) |
-| [GitHub Spec Kit](https://github.com/github/spec-kit) | [Warn when feature names have an empty suffix](https://github.com/github/spec-kit/pull/4575) |
 | [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [Agno](https://github.com/agno-agi/agno) | [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
@@ -117,7 +116,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [afero](https://github.com/spf13/afero) | [Honor access mode in MemMapFs.OpenFile permission checks](https://github.com/spf13/afero/pull/655) · [Check source existence before a no-op MemMapFs rename](https://github.com/spf13/afero/pull/656) |
 | [Hono](https://github.com/honojs/hono) | [Preserve repeated form fields in method override](https://github.com/honojs/hono/pull/5354) · [Preserve commas within quoted entity tags](https://github.com/honojs/hono/pull/5353) |
 | [Handlebars](https://github.com/handlebars-lang/handlebars.js) | [Retain helpers for precompiled partial runtimes](https://github.com/handlebars-lang/handlebars.js/pull/2174) |
-| [node-fs-extra](https://github.com/jprichardson/node-fs-extra) | [Propagate emptyDir directory read errors](https://github.com/jprichardson/node-fs-extra/pull/1080) |
 | [superjson](https://github.com/ravionhq/superjson) | [Document binary data support](https://github.com/ravionhq/superjson/pull/359) |
 | [async](https://github.com/caolan/async) | [Propagate async iterator errors from tryEach](https://github.com/caolan/async/pull/2083) · [Clear timeout before invoking the callback](https://github.com/caolan/async/pull/2082) |
 | [deep-eql](https://github.com/chaijs/deep-eql) | [Compare URLSearchParams by their query strings](https://github.com/chaijs/deep-eql/pull/115) |
@@ -130,20 +128,20 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 17 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 18 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [arktype](https://github.com/arktypeio/arktype) | [Fix recursive aliases with `Record` references](https://github.com/arktypeio/arktype/pull/1641) |
+| [node-fs-extra](https://github.com/jprichardson/node-fs-extra) | [Propagate `emptyDir` directory read errors](https://github.com/jprichardson/node-fs-extra/pull/1080) |
+| [GitHub Spec Kit](https://github.com/github/spec-kit) | [Warn when feature names have an empty suffix](https://github.com/github/spec-kit/pull/4575) |
 | [perm-gate](https://github.com/jbisaccia-9/perm-gate) | [Add an optional live LLM baseline](https://github.com/jbisaccia-9/perm-gate/pull/6) |
 | [type-fest](https://github.com/sindresorhus/type-fest) | [Add `UnionMax` type](https://github.com/sindresorhus/type-fest/pull/1519) |
 | [Heroic Games Launcher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | [Keep library entries when GamesDB is unavailable](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/pull/5798) |
 | [chroma.js](https://github.com/gka/chroma.js) | [Keep alpha when constructing from an object](https://github.com/gka/chroma.js/pull/396) · [Name rgb2hsv converter correctly](https://github.com/gka/chroma.js/pull/398) · [Reject non-numeric channels](https://github.com/gka/chroma.js/pull/399) · [Update automatic classes when the domain changes](https://github.com/gka/chroma.js/pull/402) · [Clarify Lab and Lch round trips](https://github.com/gka/chroma.js/pull/400) |
 | [p-event](https://github.com/sindresorhus/p-event) | [Reject pending iterator reads when resolution filters fail](https://github.com/sindresorhus/p-event/pull/56) |
-| [Chai](https://github.com/chaijs/chai) | [Preserve literal template tags in assertion values](https://github.com/chaijs/chai/pull/1853) |
-| [p-throttle](https://github.com/sindresorhus/p-throttle) | [Respect future weighted throttle reservations](https://github.com/sindresorhus/p-throttle/pull/65) |
-| [p-timeout](https://github.com/sindresorhus/p-timeout) | [Handle input rejections when already aborted](https://github.com/sindresorhus/p-timeout/pull/46) |
 
 <details>
 <summary><b>More merged work</b></summary>
@@ -151,6 +149,9 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [Chai](https://github.com/chaijs/chai) | [Preserve literal template tags in assertion values](https://github.com/chaijs/chai/pull/1853) |
+| [p-throttle](https://github.com/sindresorhus/p-throttle) | [Respect future weighted throttle reservations](https://github.com/sindresorhus/p-throttle/pull/65) |
+| [p-timeout](https://github.com/sindresorhus/p-timeout) | [Handle input rejections when already aborted](https://github.com/sindresorhus/p-timeout/pull/46) |
 | [p-debounce](https://github.com/sindresorhus/p-debounce) | [Preserve falsy promise rejection reasons](https://github.com/sindresorhus/p-debounce/pull/33) |
 | [niuu](https://github.com/niuulabs/niuu) | [Fix Prettier drift](https://github.com/niuulabs/niuu/pull/940) |
 | [claude-mem](https://github.com/vega0707/claude-mem) | [Fix transcript watcher durable offset commits](https://github.com/vega0707/claude-mem/pull/1) |
