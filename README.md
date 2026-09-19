@@ -128,13 +128,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 18 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 19 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
-| [arktype](https://github.com/arktypeio/arktype) | [Fix recursive aliases with `Record` references](https://github.com/arktypeio/arktype/pull/1641) |
+| [arktype](https://github.com/arktypeio/arktype) | [Prevent crashes validating unions of object arrays](https://github.com/arktypeio/arktype/pull/1638) · [Fix recursive aliases with `Record` references](https://github.com/arktypeio/arktype/pull/1641) |
 | [node-fs-extra](https://github.com/jprichardson/node-fs-extra) | [Propagate `emptyDir` directory read errors](https://github.com/jprichardson/node-fs-extra/pull/1080) |
 | [GitHub Spec Kit](https://github.com/github/spec-kit) | [Warn when feature names have an empty suffix](https://github.com/github/spec-kit/pull/4575) |
 | [perm-gate](https://github.com/jbisaccia-9/perm-gate) | [Add an optional live LLM baseline](https://github.com/jbisaccia-9/perm-gate/pull/6) |
