@@ -58,18 +58,18 @@ Inkling is an AI mind-mapping canvas. Muse reads your PDFs and draws editable ma
 
 ## Open-source activity
 
-I work upstream in the active projects I use—especially agent runtimes, developer tools, and infrastructure. The visible rows surface a small set of high-signal work; expandable lists keep the longer activity trail. [Browse the live list of open pull requests →](https://github.com/search?q=author%3Axianjianlf2+is%3Apr+is%3Aopen&type=pullrequests)
+I work upstream in the active projects I use—especially agent runtimes, developer tools, and infrastructure. The visible rows surface current high-signal work; the expandable list keeps a representative activity trail. [Browse the live list of open pull requests →](https://github.com/search?q=author%3Axianjianlf2+is%3Apr+is%3Aopen&type=pullrequests)
 
 ### In flight
 
 | Project | Current contribution |
 | :-- | :-- |
+| [orca](https://github.com/stablyai/orca) | [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) |
+| [Sequelize](https://github.com/sequelize/sequelize) | [Keep `USING` out of `COMMENT ON COLUMN` when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) · [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) |
+| [Redux Toolkit](https://github.com/reduxjs/redux-toolkit) | [Skip fetch when an infinite-query trigger uses `skipToken`](https://github.com/reduxjs/redux-toolkit/pull/5334) |
 | [Mac-Duo](https://github.com/sumimakito/Mac-Duo) | [Add opt-in external displays that follow the MacBook lid](https://github.com/sumimakito/Mac-Duo/pull/39) |
 | [filetype.py](https://github.com/h2non/filetype.py) | [Use registered font media types](https://github.com/h2non/filetype.py/pull/206) |
 | [pydash](https://github.com/dgilland/pydash) | [Support iterator inputs in intersection helpers](https://github.com/dgilland/pydash/pull/264) |
-| [zerolog](https://github.com/rs/zerolog) | [Write CEE syslog messages as a single record](https://github.com/rs/zerolog/pull/801) |
-| [picomatch](https://github.com/micromatch/picomatch) | [Treat unmatched double quotes as literal path characters](https://github.com/micromatch/picomatch/pull/211) |
-| [neoformat](https://github.com/sbdchd/neoformat) | [Find local Node formatters from the buffer directory](https://github.com/sbdchd/neoformat/pull/516) |
 
 <details>
 <summary><b>More active upstream work</b></summary>
@@ -77,6 +77,9 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
+| [zerolog](https://github.com/rs/zerolog) | [Write CEE syslog messages as a single record](https://github.com/rs/zerolog/pull/801) |
+| [picomatch](https://github.com/micromatch/picomatch) | [Treat unmatched double quotes as literal path characters](https://github.com/micromatch/picomatch/pull/211) |
+| [neoformat](https://github.com/sbdchd/neoformat) | [Find local Node formatters from the buffer directory](https://github.com/sbdchd/neoformat/pull/516) |
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
 | [Sequelize](https://github.com/sequelize/sequelize) | [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) · [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) |
 | [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
@@ -87,7 +90,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
 | [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
-| [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
 | [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [n8n AI Agent Security Lab](https://github.com/0xCD4/n8n-ai-agent-security-lab) | [Add a broad AI HTTP tool fixture](https://github.com/0xCD4/n8n-ai-agent-security-lab/pull/6) |
 | [context-mode](https://github.com/mksglu/context-mode) | [Evict least-important events first](https://github.com/mksglu/context-mode/pull/1158) |
@@ -128,7 +130,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 19 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 20 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
