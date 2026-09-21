@@ -69,7 +69,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Redux Toolkit](https://github.com/reduxjs/redux-toolkit) | [Skip fetch when an infinite-query trigger uses `skipToken`](https://github.com/reduxjs/redux-toolkit/pull/5334) |
 | [Mac-Duo](https://github.com/sumimakito/Mac-Duo) | [Add opt-in external displays that follow the MacBook lid](https://github.com/sumimakito/Mac-Duo/pull/39) |
 | [filetype.py](https://github.com/h2non/filetype.py) | [Use registered font media types](https://github.com/h2non/filetype.py/pull/206) |
-| [pydash](https://github.com/dgilland/pydash) | [Support iterator inputs in intersection helpers](https://github.com/dgilland/pydash/pull/264) |
+| [zerolog](https://github.com/rs/zerolog) | [Write CEE syslog messages as a single record](https://github.com/rs/zerolog/pull/801) |
 
 <details>
 <summary><b>More active upstream work</b></summary>
@@ -77,7 +77,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 | Project | Current contribution |
 | :-- | :-- |
-| [zerolog](https://github.com/rs/zerolog) | [Write CEE syslog messages as a single record](https://github.com/rs/zerolog/pull/801) |
 | [picomatch](https://github.com/micromatch/picomatch) | [Treat unmatched double quotes as literal path characters](https://github.com/micromatch/picomatch/pull/211) |
 | [neoformat](https://github.com/sbdchd/neoformat) | [Find local Node formatters from the buffer directory](https://github.com/sbdchd/neoformat/pull/516) |
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
@@ -130,12 +129,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 20 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 21 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [pydash](https://github.com/dgilland/pydash) | [Support iterator inputs in intersection helpers](https://github.com/dgilland/pydash/pull/264) |
 | [arktype](https://github.com/arktypeio/arktype) | [Prevent crashes validating unions of object arrays](https://github.com/arktypeio/arktype/pull/1638) · [Fix recursive aliases with `Record` references](https://github.com/arktypeio/arktype/pull/1641) |
 | [node-fs-extra](https://github.com/jprichardson/node-fs-extra) | [Propagate `emptyDir` directory read errors](https://github.com/jprichardson/node-fs-extra/pull/1080) |
 | [GitHub Spec Kit](https://github.com/github/spec-kit) | [Warn when feature names have an empty suffix](https://github.com/github/spec-kit/pull/4575) |
