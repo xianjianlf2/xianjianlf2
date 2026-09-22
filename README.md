@@ -118,7 +118,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Hono](https://github.com/honojs/hono) | [Preserve repeated form fields in method override](https://github.com/honojs/hono/pull/5354) · [Preserve commas within quoted entity tags](https://github.com/honojs/hono/pull/5353) |
 | [Handlebars](https://github.com/handlebars-lang/handlebars.js) | [Retain helpers for precompiled partial runtimes](https://github.com/handlebars-lang/handlebars.js/pull/2174) |
 | [superjson](https://github.com/ravionhq/superjson) | [Document binary data support](https://github.com/ravionhq/superjson/pull/359) |
-| [async](https://github.com/caolan/async) | [Propagate async iterator errors from tryEach](https://github.com/caolan/async/pull/2083) · [Clear timeout before invoking the callback](https://github.com/caolan/async/pull/2082) |
 | [deep-eql](https://github.com/chaijs/deep-eql) | [Compare URLSearchParams by their query strings](https://github.com/chaijs/deep-eql/pull/115) |
 | [TanStack Form](https://github.com/TanStack/form) | [Keep the `reset(values)` baseline on update](https://github.com/TanStack/form/pull/2235) · [Clear stale linked-field validation errors](https://github.com/TanStack/form/pull/2244) · [Create complete field meta for uninitialized fields](https://github.com/TanStack/form/pull/2245) |
 | [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) | [Fix relation-name collision with inherited keys](https://github.com/drizzle-team/drizzle-orm/pull/6086) · [Preserve Unicode identifiers in casing helpers](https://github.com/drizzle-team/drizzle-orm/pull/6087) · [Preserve custom codecs for aggregate functions](https://github.com/drizzle-team/drizzle-orm/pull/6088) |
@@ -129,12 +128,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 21 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 22 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [async](https://github.com/caolan/async) | [Propagate async iterator errors from tryEach](https://github.com/caolan/async/pull/2083) · [Clear timeout before invoking the callback](https://github.com/caolan/async/pull/2082) |
 | [pydash](https://github.com/dgilland/pydash) | [Support iterator inputs in intersection helpers](https://github.com/dgilland/pydash/pull/264) |
 | [arktype](https://github.com/arktypeio/arktype) | [Prevent crashes validating unions of object arrays](https://github.com/arktypeio/arktype/pull/1638) · [Fix recursive aliases with `Record` references](https://github.com/arktypeio/arktype/pull/1641) |
 | [node-fs-extra](https://github.com/jprichardson/node-fs-extra) | [Propagate `emptyDir` directory read errors](https://github.com/jprichardson/node-fs-extra/pull/1080) |
