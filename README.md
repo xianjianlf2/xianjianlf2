@@ -80,7 +80,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [picomatch](https://github.com/micromatch/picomatch) | [Treat unmatched double quotes as literal path characters](https://github.com/micromatch/picomatch/pull/211) |
 | [neoformat](https://github.com/sbdchd/neoformat) | [Find local Node formatters from the buffer directory](https://github.com/sbdchd/neoformat/pull/516) |
 | [Flutter](https://github.com/flutter/flutter) | [Replay predictive back state for retained engines](https://github.com/flutter/flutter/pull/192286) |
-| [Sequelize](https://github.com/sequelize/sequelize) | [Destroy MySQL connections when `SET time_zone` fails](https://github.com/sequelize/sequelize/pull/18267) · [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) · [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) |
+| [Sequelize](https://github.com/sequelize/sequelize) | [Close connections after setup failures](https://github.com/sequelize/sequelize/pull/18293) · [Keep USING clause out of COMMENT ON COLUMN when altering ENUM](https://github.com/sequelize/sequelize/pull/18254) |
 | [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [Agno](https://github.com/agno-agi/agno) | [Add optional EverOS LearningStore example](https://github.com/agno-agi/agno/pull/9220) · [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
@@ -131,7 +131,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 23 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 25 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
