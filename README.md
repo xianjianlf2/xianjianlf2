@@ -84,7 +84,6 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [Agno](https://github.com/agno-agi/agno) | [Add optional EverOS LearningStore example](https://github.com/agno-agi/agno/pull/9220) · [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
-| [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
 | [chokidar](https://github.com/paulmillr/chokidar) | [Register watcher before dir scan](https://github.com/paulmillr/chokidar/pull/1473) · [Keep watching a subtree with a non-existent nested path](https://github.com/paulmillr/chokidar/pull/1472) |
 | [Effect](https://github.com/Effect-TS/effect) | [Prevent `cachedWithTTL` from suppressing interruption](https://github.com/Effect-TS/effect/pull/6316) |
 | [carekeeper](https://github.com/MuataSr/carekeeper) | [Show drive-health notes in dashboard and fallback reports](https://github.com/MuataSr/carekeeper/pull/2) |
@@ -131,12 +130,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 25 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 26 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
 | [async](https://github.com/caolan/async) | [Propagate async iterator errors from tryEach](https://github.com/caolan/async/pull/2083) · [Clear timeout before invoking the callback](https://github.com/caolan/async/pull/2082) |
 | [pydash](https://github.com/dgilland/pydash) | [Support iterator inputs in intersection helpers](https://github.com/dgilland/pydash/pull/264) |
 | [arktype](https://github.com/arktypeio/arktype) | [Prevent crashes validating unions of object arrays](https://github.com/arktypeio/arktype/pull/1638) · [Fix recursive aliases with `Record` references](https://github.com/arktypeio/arktype/pull/1641) |
