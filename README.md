@@ -92,6 +92,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
 | [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
 | [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
+| [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
 | [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [n8n AI Agent Security Lab](https://github.com/0xCD4/n8n-ai-agent-security-lab) | [Add a broad AI HTTP tool fixture](https://github.com/0xCD4/n8n-ai-agent-security-lab/pull/6) |
 | [context-mode](https://github.com/mksglu/context-mode) | [Evict least-important events first](https://github.com/mksglu/context-mode/pull/1158) |
@@ -130,7 +131,7 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 26 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 28 Sep 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
