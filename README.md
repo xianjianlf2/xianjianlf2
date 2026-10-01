@@ -131,12 +131,13 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 28 Sep 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 1 Oct 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [flutter_ezw_ble](https://github.com/haizhiyun/flutter_ezw_ble) | [Preserve device remarks during JSON serialization](https://github.com/haizhiyun/flutter_ezw_ble/pull/1) |
 | [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
 | [async](https://github.com/caolan/async) | [Propagate async iterator errors from tryEach](https://github.com/caolan/async/pull/2083) · [Clear timeout before invoking the callback](https://github.com/caolan/async/pull/2082) |
 | [pydash](https://github.com/dgilland/pydash) | [Support iterator inputs in intersection helpers](https://github.com/dgilland/pydash/pull/264) |
