@@ -84,16 +84,15 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 | [Anthropic SDK for TypeScript](https://github.com/anthropics/anthropic-sdk-typescript) | [Prevent retries with streaming request bodies](https://github.com/anthropics/anthropic-sdk-typescript/pull/1171) |
 | [Cherry Studio](https://github.com/yzxcj797/cherry-studio) | [Align pi endpoint injection resolver](https://github.com/yzxcj797/cherry-studio/pull/2) |
 | [Agno](https://github.com/agno-agi/agno) | [Add optional EverOS LearningStore example](https://github.com/agno-agi/agno/pull/9220) · [Route HTML URLs through WebsiteReader](https://github.com/agno-agi/agno/pull/9226) · [Make message content stringification trace-safe](https://github.com/agno-agi/agno/pull/9231) · [Support Cosmos MongoDB search options](https://github.com/agno-agi/agno/pull/9227) · [Normalize AgentOS model providers](https://github.com/agno-agi/agno/pull/9215) · [Scope entity memory IDs by user](https://github.com/agno-agi/agno/pull/9216) |
-| [chokidar](https://github.com/paulmillr/chokidar) | [Register watcher before dir scan](https://github.com/paulmillr/chokidar/pull/1473) · [Keep watching a subtree with a non-existent nested path](https://github.com/paulmillr/chokidar/pull/1472) |
 | [Effect](https://github.com/Effect-TS/effect) | [Prevent `cachedWithTTL` from suppressing interruption](https://github.com/Effect-TS/effect/pull/6316) |
 | [carekeeper](https://github.com/MuataSr/carekeeper) | [Show drive-health notes in dashboard and fallback reports](https://github.com/MuataSr/carekeeper/pull/2) |
 | [Google Artemis](https://github.com/google/artemis) | [Honor `ANDROID_ADB_SERVER_PORT` as an ADB fallback](https://github.com/google/artemis/pull/146) |
-| [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Expose SSH hosts running agent hooks](https://github.com/stablyai/orca/pull/8848) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Move the relay CLI bin dir to the front of PATH](https://github.com/stablyai/orca/pull/8710) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) · [Report multiplex slot diagnostics](https://github.com/stablyai/orca/pull/11288) · [Render `<br>` in markdown table cells as line breaks](https://github.com/stablyai/orca/pull/8995) |
+| [stablyai/orca](https://github.com/stablyai/orca) | [Report the current terminal surface](https://github.com/stablyai/orca/pull/8859) · [Label hosted reviews by provider](https://github.com/stablyai/orca/pull/7655) · [Mark node-pty master fds close-on-exec](https://github.com/stablyai/orca/pull/8855) · [Stop stale merged-PR flashes](https://github.com/stablyai/orca/pull/7815) · [Report terminal wait observed state](https://github.com/stablyai/orca/pull/11672) · [Open files in the default app](https://github.com/stablyai/orca/pull/11268) · [Expose task worktree provenance](https://github.com/stablyai/orca/pull/11284) · [Prune hydrated restored folder owners](https://github.com/stablyai/orca/pull/11285) · [Avoid empty tabs for session metadata](https://github.com/stablyai/orca/pull/10096) · [Load PR tree-selected sections](https://github.com/stablyai/orca/pull/11287) · [Report multiplex slot diagnostics](https://github.com/stablyai/orca/pull/11288) · [Render `<br>` in markdown table cells as line breaks](https://github.com/stablyai/orca/pull/8995) |
 | [Firecrawl AnyDoc](https://github.com/firecrawl/anydoc) | [Expose slide boundary anchors for presentations](https://github.com/firecrawl/anydoc/pull/95) · [Support standalone HTML documents](https://github.com/firecrawl/anydoc/pull/53) |
-| [cmux](https://github.com/manaflow-ai/cmux) | [Fix optional-guarded custom-sidebar views](https://github.com/manaflow-ai/cmux/pull/7974) · [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
+| [cmux](https://github.com/manaflow-ai/cmux) | [Document OAuth tokens for concurrent Claude Code sessions](https://github.com/manaflow-ai/cmux/pull/7964) |
+| [go-version](https://github.com/hashicorp/go-version) | [Fix Core panicking on a zero-value Version](https://github.com/hashicorp/go-version/pull/227) · [Fix numeric prerelease comparisons with leading zeroes](https://github.com/hashicorp/go-version/pull/228) |
+| [Immer](https://github.com/immerjs/immer) | [Skip sparse array holes in optimized filter](https://github.com/immerjs/immer/pull/1320) · [Respect explicit null end in optimized slice](https://github.com/immerjs/immer/pull/1321) |
 | [Block Buzz](https://github.com/block/buzz) | [Preserve agent profile fields when setting policy](https://github.com/block/buzz/pull/4492) |
-| [LobeHub](https://github.com/lobehub/lobehub) | [Avoid blocking DeepSeek Harness handshakes in unit tests](https://github.com/lobehub/lobehub/pull/18405) |
-| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [n8n AI Agent Security Lab](https://github.com/0xCD4/n8n-ai-agent-security-lab) | [Add a broad AI HTTP tool fixture](https://github.com/0xCD4/n8n-ai-agent-security-lab/pull/6) |
 | [context-mode](https://github.com/mksglu/context-mode) | [Evict least-important events first](https://github.com/mksglu/context-mode/pull/1158) |
 | [mathjs](https://github.com/josdejong/mathjs) | [Round zeta BigNumber digit count](https://github.com/josdejong/mathjs/pull/3683) |
@@ -131,12 +130,14 @@ I work upstream in the active projects I use—especially agent runtimes, develo
 
 </details>
 
-<sub>Curated snapshot checked on 1 Oct 2026; the live GitHub query above is the source of truth.</sub>
+<sub>Curated snapshot checked on 13 Oct 2026; the live GitHub query above is the source of truth.</sub>
 
 ### Recently merged
 
 | Project | Merged contribution |
 | :-- | :-- |
+| [cmux](https://github.com/manaflow-ai/cmux) | [Fix custom-sidebar nil-comparison so optional-guarded views render](https://github.com/manaflow-ai/cmux/pull/7974) |
+| [AIRI](https://github.com/moeru-ai/airi) | [Restore an off-screen desktop main window](https://github.com/moeru-ai/airi/pull/2203) |
 | [flutter_ezw_ble](https://github.com/haizhiyun/flutter_ezw_ble) | [Preserve device remarks during JSON serialization](https://github.com/haizhiyun/flutter_ezw_ble/pull/1) |
 | [magicast](https://github.com/unjs/magicast) | [Preserve tab indentation when modifying modules](https://github.com/unjs/magicast/pull/179) |
 | [async](https://github.com/caolan/async) | [Propagate async iterator errors from tryEach](https://github.com/caolan/async/pull/2083) · [Clear timeout before invoking the callback](https://github.com/caolan/async/pull/2082) |
