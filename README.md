@@ -31,9 +31,9 @@ Selected contributions to the tools I use, from agent interfaces to JavaScript i
 | Project | Contribution | Status |
 | :-- | :-- | :-- |
 | [cmux](https://github.com/manaflow-ai/cmux/pull/7974) | Fix rendering of optional custom-sidebar views | Merged |
-| [AIRI](https://github.com/moeru-ai/airi/pull/2203) | Restore desktop windows that open off-screen | Merged |
+| [LangChain.js](https://github.com/langchain-ai/langchainjs/pull/11498) | Let human reviewers respond on behalf of tools | Merged |
 | [Immer](https://github.com/immerjs/immer/pull/1320) | Preserve sparse-array behavior in optimized filters | Open |
-| [go-version](https://github.com/hashicorp/go-version/pull/227) | Prevent a panic when reading a zero-value version | Open |
+| [go-version](https://github.com/hashicorp/go-version/pull/227) | Prevent a panic when reading a zero-value version | Merged |
 
 [All open PRs →](https://github.com/search?q=author%3Axianjianlf2+is%3Apr+is%3Aopen&type=pullrequests) · [Merged contributions →](https://github.com/search?q=author%3Axianjianlf2+is%3Apr+is%3Amerged&type=pullrequests)
 
