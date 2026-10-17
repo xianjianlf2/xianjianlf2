@@ -30,7 +30,7 @@ Selected contributions to the tools I use, from agent interfaces to JavaScript i
 
 | Project | Contribution | Status |
 | :-- | :-- | :-- |
-| [cmux](https://github.com/manaflow-ai/cmux/pull/7974) | Fix rendering of optional custom-sidebar views | Merged |
+| [PrimeFaces](https://github.com/primefaces/primefaces/pull/15332) | Add confirmation support for toggle switches and selection buttons | Merged |
 | [LangChain.js](https://github.com/langchain-ai/langchainjs/pull/11498) | Let human reviewers respond on behalf of tools | Merged |
 | [Immer](https://github.com/immerjs/immer/pull/1320) | Preserve sparse-array behavior in optimized filters | Open |
 | [go-version](https://github.com/hashicorp/go-version/pull/227) | Prevent a panic when reading a zero-value version | Merged |
