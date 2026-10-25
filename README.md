@@ -30,7 +30,7 @@ Selected contributions to the tools I use, from agent interfaces to JavaScript i
 
 | Project | Contribution | Status |
 | :-- | :-- | :-- |
-| [PrimeFaces](https://github.com/primefaces/primefaces/pull/15332) | Add confirmation support for toggle switches and selection buttons | Merged |
+| [Orca](https://github.com/stablyai/orca/pull/7815) | Hide stale merged PRs when a workspace moves to new commits | Merged |
 | [LangChain.js](https://github.com/langchain-ai/langchainjs/pull/11498) | Let human reviewers respond on behalf of tools | Merged |
 | [Immer](https://github.com/immerjs/immer/pull/1320) | Preserve sparse-array behavior in optimized filters | Open |
 | [Effect](https://github.com/Effect-TS/effect/pull/6316) | Preserve interruption and timeouts in cached effects | Merged |
