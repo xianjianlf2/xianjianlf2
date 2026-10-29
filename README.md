@@ -1,4 +1,4 @@
-<img src="./assets/profile-hero.svg" width="100%" alt="Mark Xian — Make AI feel useful." />
+<img src="./assets/profile-banner.svg" width="100%" alt="Mark Xian — Make AI feel useful." />
 
 [Portfolio](https://markxian.cn/?ref=github-profile) · [Inkling](https://inkling.markxian.cn/?ref=github-profile) · [Say hello](mailto:mark-xian@foxmail.com)
 
